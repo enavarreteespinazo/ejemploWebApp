@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1608142529087,4860,Home,200,OK,Grupo de Hilos 1-1,text,true,,227937,350,100,100,https://www.xataka.com/,99,0,61
+1608142529087,118,Home-0,301,Moved Permanently,Grupo de Hilos 1-1,text,true,,1041,114,100,100,http://xataka.com/,99,0,61
+1608142529171,5231,Home,200,OK,Grupo de Hilos 1-39,text,true,,227937,350,100,100,https://www.xataka.com/,35,0,10
+1608142529171,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-39,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529207,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-39,text,true,,580,118,100,100,http://www.xataka.com/,26,0,12
+1608142529234,5168,Home-2,200,OK,Grupo de Hilos 1-39,text,true,,226316,118,100,100,https://www.xataka.com/,3544,0,3304
+1608142529093,5326,Home,200,OK,Grupo de Hilos 1-17,text,true,,227937,350,100,100,https://www.xataka.com/,91,0,55
+1608142529093,115,Home-0,301,Moved Permanently,Grupo de Hilos 1-17,text,true,,1041,114,100,100,http://xataka.com/,91,0,55
+1608142529209,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-17,text,true,,580,118,100,100,http://www.xataka.com/,27,0,15
+1608142529237,5182,Home-2,200,OK,Grupo de Hilos 1-17,text,true,,226316,118,100,100,https://www.xataka.com/,3529,0,3325
+1608142529294,5131,Home,200,OK,Grupo de Hilos 1-52,text,true,,227998,350,100,100,https://www.xataka.com/,37,0,13
+1608142529294,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-52,text,true,,1041,114,100,100,http://xataka.com/,37,0,13
+1608142529351,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-52,text,true,,580,118,100,100,http://www.xataka.com/,26,0,12
+1608142529378,5047,Home-2,200,OK,Grupo de Hilos 1-52,text,true,,226377,118,100,100,https://www.xataka.com/,3524,0,3476
+1608142529449,4981,Home,200,OK,Grupo de Hilos 1-71,text,true,,228060,350,100,100,https://www.xataka.com/,36,0,12
+1608142529449,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-71,text,true,,1041,114,100,100,http://xataka.com/,36,0,12
+1608142529486,39,Home-1,301,Moved Permanently,Grupo de Hilos 1-71,text,true,,580,118,100,100,http://www.xataka.com/,39,0,13
+1608142529528,4902,Home-2,200,OK,Grupo de Hilos 1-71,text,true,,226439,118,100,100,https://www.xataka.com/,3385,0,3341
+1608142529350,5081,Home,200,OK,Grupo de Hilos 1-55,text,true,,228043,350,100,100,https://www.xataka.com/,31,0,9
+1608142529350,31,Home-0,301,Moved Permanently,Grupo de Hilos 1-55,text,true,,1041,114,100,100,http://xataka.com/,31,0,9
+1608142529381,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-55,text,true,,580,118,100,100,http://www.xataka.com/,23,0,13
+1608142529405,5026,Home-2,200,OK,Grupo de Hilos 1-55,text,true,,226422,118,100,100,https://www.xataka.com/,3273,0,3113
+1608142529668,4763,Home,200,OK,Grupo de Hilos 1-93,text,true,,228022,350,100,100,https://www.xataka.com/,37,0,11
+1608142529668,37,Home-0,301,Moved Permanently,Grupo de Hilos 1-93,text,true,,1041,114,100,100,http://xataka.com/,37,0,11
+1608142529705,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-93,text,true,,580,118,100,100,http://www.xataka.com/,24,0,12
+1608142529730,4701,Home-2,200,OK,Grupo de Hilos 1-93,text,true,,226401,118,100,100,https://www.xataka.com/,3059,0,2920
+1608142529395,5041,Home,200,OK,Grupo de Hilos 1-65,text,true,,227983,350,100,100,https://www.xataka.com/,38,0,11
+1608142529395,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-65,text,true,,1041,114,100,100,http://xataka.com/,38,0,11
+1608142529434,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-65,text,true,,580,118,100,100,http://www.xataka.com/,22,0,11
+1608142529457,4979,Home-2,200,OK,Grupo de Hilos 1-65,text,true,,226362,118,100,100,https://www.xataka.com/,3239,0,3164
+1608142529086,5351,Home,200,OK,Grupo de Hilos 1-8,text,true,,228021,350,100,100,https://www.xataka.com/,98,0,64
+1608142529086,120,Home-0,301,Moved Permanently,Grupo de Hilos 1-8,text,true,,1041,114,100,100,http://xataka.com/,98,0,64
+1608142529207,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-8,text,true,,580,118,100,100,http://www.xataka.com/,24,0,13
+1608142529231,5206,Home-2,200,OK,Grupo de Hilos 1-8,text,true,,226400,118,100,100,https://www.xataka.com/,3367,0,3311
+1608142529703,4738,Home,200,OK,Grupo de Hilos 1-96,text,true,,227945,350,100,100,https://www.xataka.com/,36,0,14
+1608142529703,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-96,text,true,,1041,114,100,100,http://xataka.com/,36,0,14
+1608142529740,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-96,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529764,4677,Home-2,200,OK,Grupo de Hilos 1-96,text,true,,226324,118,100,100,https://www.xataka.com/,2946,0,2475
+1608142529106,5338,Home,200,OK,Grupo de Hilos 1-32,text,true,,228063,350,100,100,https://www.xataka.com/,73,0,35
+1608142529106,93,Home-0,301,Moved Permanently,Grupo de Hilos 1-32,text,true,,1041,114,100,100,http://xataka.com/,73,0,35
+1608142529222,45,Home-1,301,Moved Permanently,Grupo de Hilos 1-32,text,true,,580,118,100,100,http://www.xataka.com/,45,0,34
+1608142529268,5176,Home-2,200,OK,Grupo de Hilos 1-32,text,true,,226442,118,100,100,https://www.xataka.com/,3820,0,3772
+1608142529370,5077,Home,200,OK,Grupo de Hilos 1-61,text,true,,227968,350,100,100,https://www.xataka.com/,33,0,10
+1608142529370,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-61,text,true,,1041,114,100,100,http://xataka.com/,33,0,10
+1608142529403,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-61,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529427,5020,Home-2,200,OK,Grupo de Hilos 1-61,text,true,,226347,118,100,100,https://www.xataka.com/,3323,0,3171
+1608142529270,5180,Home,200,OK,Grupo de Hilos 1-50,text,true,,227958,350,100,100,https://www.xataka.com/,38,0,11
+1608142529270,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-50,text,true,,1041,114,100,100,http://xataka.com/,38,0,11
+1608142529309,36,Home-1,301,Moved Permanently,Grupo de Hilos 1-50,text,true,,580,118,100,100,http://www.xataka.com/,36,0,24
+1608142529345,5105,Home-2,200,OK,Grupo de Hilos 1-50,text,true,,226337,118,100,100,https://www.xataka.com/,3450,0,3302
+1608142529571,4886,Home,200,OK,Grupo de Hilos 1-83,text,true,,228021,350,100,100,https://www.xataka.com/,31,0,9
+1608142529571,31,Home-0,301,Moved Permanently,Grupo de Hilos 1-83,text,true,,1041,114,100,100,http://xataka.com/,31,0,9
+1608142529603,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-83,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529626,4831,Home-2,200,OK,Grupo de Hilos 1-83,text,true,,226400,118,100,100,https://www.xataka.com/,2925,0,2822
+1608142529398,4986,Home,200,OK,Grupo de Hilos 1-66,text,true,,228007,350,100,100,https://www.xataka.com/,35,0,10
+1608142529398,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-66,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529205,30,Home-1,301,Moved Permanently,Grupo de Hilos 1-1,text,true,,580,118,100,100,http://www.xataka.com/,30,0,15
+1608142529236,4711,Home-2,200,OK,Grupo de Hilos 1-1,text,true,,226316,118,100,100,https://www.xataka.com/,3350,0,3292
+1608142529087,5368,Home,200,OK,Grupo de Hilos 1-22,text,true,,228000,350,100,100,https://www.xataka.com/,88,0,59
+1608142529729,4629,Home,200,OK,Grupo de Hilos 1-99,text,true,,228004,350,100,100,https://www.xataka.com/,36,0,11
+1608142529589,4766,Home,200,OK,Grupo de Hilos 1-85,text,true,,228030,350,100,100,https://www.xataka.com/,35,0,10
+1608142529589,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-85,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529625,21,Home-1,301,Moved Permanently,Grupo de Hilos 1-85,text,true,,580,118,100,100,http://www.xataka.com/,20,0,10
+1608142529598,4778,Home,200,OK,Grupo de Hilos 1-86,text,true,,228020,350,100,100,https://www.xataka.com/,34,0,11
+1608142529598,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-86,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529348,4968,Home,200,OK,Grupo de Hilos 1-58,text,true,,228061,350,100,100,https://www.xataka.com/,37,0,15
+1608142529633,20,Home-1,301,Moved Permanently,Grupo de Hilos 1-86,text,true,,580,118,100,100,http://www.xataka.com/,20,0,10
+1608142529654,4722,Home-2,200,OK,Grupo de Hilos 1-86,text,true,,226399,118,100,100,https://www.xataka.com/,3068,0,2988
+1608142529088,5427,Home,200,OK,Grupo de Hilos 1-26,text,true,,227984,350,100,100,https://www.xataka.com/,93,0,59
+1608142529088,127,Home-0,301,Moved Permanently,Grupo de Hilos 1-26,text,true,,1041,114,100,100,http://xataka.com/,93,0,59
+1608142529216,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-26,text,true,,580,118,100,100,http://www.xataka.com/,26,0,12
+1608142529243,5272,Home-2,200,OK,Grupo de Hilos 1-26,text,true,,226363,118,100,100,https://www.xataka.com/,3552,0,3472
+1608142529087,5291,Home,200,OK,Grupo de Hilos 1-11,text,true,,227984,350,100,100,https://www.xataka.com/,88,0,58
+1608142529087,112,Home-0,301,Moved Permanently,Grupo de Hilos 1-11,text,true,,1041,114,100,100,http://xataka.com/,88,0,58
+1608142529204,54,Home-1,301,Moved Permanently,Grupo de Hilos 1-11,text,true,,580,118,100,100,http://www.xataka.com/,54,0,15
+1608142529259,5119,Home-2,200,OK,Grupo de Hilos 1-11,text,true,,226363,118,100,100,https://www.xataka.com/,3598,0,3542
+1608142529648,4305,Home,200,OK,Grupo de Hilos 1-91,text,true,,228068,350,100,100,https://www.xataka.com/,35,0,10
+1608142529648,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-91,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529683,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-91,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529709,4244,Home-2,200,OK,Grupo de Hilos 1-91,text,true,,226447,118,100,100,https://www.xataka.com/,2917,0,2778
+1608142529090,5427,Home,200,OK,Grupo de Hilos 1-30,text,true,,227997,350,100,100,https://www.xataka.com/,98,0,62
+1608142529090,104,Home-0,301,Moved Permanently,Grupo de Hilos 1-30,text,true,,1041,114,100,100,http://xataka.com/,98,0,62
+1608142529194,34,Home-1,301,Moved Permanently,Grupo de Hilos 1-30,text,true,,580,118,100,100,http://www.xataka.com/,34,0,24
+1608142529229,5288,Home-2,200,OK,Grupo de Hilos 1-30,text,true,,226376,118,100,100,https://www.xataka.com/,3502,0,3417
+1608142529646,4709,Home-2,200,OK,Grupo de Hilos 1-85,text,true,,226409,118,100,100,https://www.xataka.com/,2956,0,2905
+1608142529729,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-99,text,true,,1041,114,100,100,http://xataka.com/,36,0,11
+1608142529766,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-99,text,true,,580,118,100,100,http://www.xataka.com/,27,0,10
+1608142529793,4565,Home-2,200,OK,Grupo de Hilos 1-99,text,true,,226383,118,100,100,https://www.xataka.com/,2765,0,2728
+1608142529237,5040,Home,200,OK,Grupo de Hilos 1-46,text,true,,228015,350,100,100,https://www.xataka.com/,38,0,14
+1608142529237,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-46,text,true,,1041,114,100,100,http://xataka.com/,38,0,14
+1608142529276,56,Home-1,301,Moved Permanently,Grupo de Hilos 1-46,text,true,,580,118,100,100,http://www.xataka.com/,56,0,32
+1608142529351,4926,Home-2,200,OK,Grupo de Hilos 1-46,text,true,,226394,118,100,100,https://www.xataka.com/,3243,0,3176
+1608142529145,4902,Home,200,OK,Grupo de Hilos 1-36,text,true,,227967,350,100,100,https://www.xataka.com/,49,0,14
+1608142529246,4763,Home,200,OK,Grupo de Hilos 1-47,text,true,,227961,350,100,100,https://www.xataka.com/,35,0,10
+1608142529409,4762,Home,200,OK,Grupo de Hilos 1-67,text,true,,227952,350,100,100,https://www.xataka.com/,33,0,10
+1608142529409,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-67,text,true,,1041,114,100,100,http://xataka.com/,33,0,10
+1608142529443,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-67,text,true,,580,118,100,100,http://www.xataka.com/,23,0,12
+1608142529467,4704,Home-2,200,OK,Grupo de Hilos 1-67,text,true,,226331,118,100,100,https://www.xataka.com/,3149,0,3041
+1608142529091,5096,Home,200,OK,Grupo de Hilos 1-4,text,true,,228014,350,100,100,https://www.xataka.com/,102,0,54
+1608142529091,102,Home-0,301,Moved Permanently,Grupo de Hilos 1-4,text,true,,1041,114,100,100,http://xataka.com/,102,0,54
+1608142529193,51,Home-1,301,Moved Permanently,Grupo de Hilos 1-4,text,true,,580,118,100,100,http://www.xataka.com/,51,0,40
+1608142529745,4487,Home,200,OK,Grupo de Hilos 1-100,text,true,,227984,350,100,100,https://www.xataka.com/,34,0,10
+1608142529088,5199,Home,200,OK,Grupo de Hilos 1-15,text,true,,227984,350,100,100,https://www.xataka.com/,93,0,58
+1608142529087,5210,Home,200,OK,Grupo de Hilos 1-27,text,true,,227960,350,100,100,https://www.xataka.com/,95,0,62
+1608142529745,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-100,text,true,,1041,114,100,100,http://xataka.com/,34,0,10
+1608142529087,127,Home-0,301,Moved Permanently,Grupo de Hilos 1-27,text,true,,1041,114,100,100,http://xataka.com/,95,0,62
+1608142529780,29,Home-1,301,Moved Permanently,Grupo de Hilos 1-100,text,true,,580,118,100,100,http://www.xataka.com/,29,0,17
+1608142529216,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-27,text,true,,580,118,100,100,http://www.xataka.com/,25,0,11
+1608142529242,5055,Home-2,200,OK,Grupo de Hilos 1-27,text,true,,226339,118,100,100,https://www.xataka.com/,3487,0,3397
+1608142529810,4422,Home-2,200,OK,Grupo de Hilos 1-100,text,true,,226363,118,100,100,https://www.xataka.com/,2948,0,2793
+1608142529087,5216,Home,200,OK,Grupo de Hilos 1-21,text,true,,227960,350,100,100,https://www.xataka.com/,94,0,60
+1608142529087,128,Home-0,301,Moved Permanently,Grupo de Hilos 1-21,text,true,,1041,114,100,100,http://xataka.com/,94,0,60
+1608142529217,31,Home-1,301,Moved Permanently,Grupo de Hilos 1-21,text,true,,580,118,100,100,http://www.xataka.com/,31,0,16
+1608142529249,5054,Home-2,200,OK,Grupo de Hilos 1-21,text,true,,226339,118,100,100,https://www.xataka.com/,3505,0,3320
+1608142529088,127,Home-0,301,Moved Permanently,Grupo de Hilos 1-15,text,true,,1041,114,100,100,http://xataka.com/,93,0,58
+1608142529217,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-15,text,true,,580,118,100,100,http://www.xataka.com/,25,0,11
+1608142529242,5045,Home-2,200,OK,Grupo de Hilos 1-15,text,true,,226363,118,100,100,https://www.xataka.com/,3453,0,3353
+1608142529719,4672,Home,200,OK,Grupo de Hilos 1-98,text,true,,228054,350,100,100,https://www.xataka.com/,35,0,11
+1608142529719,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-98,text,true,,1041,114,100,100,http://xataka.com/,35,0,11
+1608142529754,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-98,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529781,4610,Home-2,200,OK,Grupo de Hilos 1-98,text,true,,226433,118,100,100,https://www.xataka.com/,3090,0,3052
+1608142529348,37,Home-0,301,Moved Permanently,Grupo de Hilos 1-58,text,true,,1041,114,100,100,http://xataka.com/,37,0,15
+1608142529386,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-58,text,true,,580,118,100,100,http://www.xataka.com/,24,0,12
+1608142529411,4905,Home-2,200,OK,Grupo de Hilos 1-58,text,true,,226440,118,100,100,https://www.xataka.com/,3478,0,3438
+1608142529209,5557,Home,200,OK,Grupo de Hilos 1-43,text,true,,228015,350,100,100,https://www.xataka.com/,44,0,16
+1608142529209,44,Home-0,301,Moved Permanently,Grupo de Hilos 1-43,text,true,,1041,114,100,100,http://xataka.com/,44,0,16
+1608142529253,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-43,text,true,,580,118,100,100,http://www.xataka.com/,24,0,12
+1608142529277,5489,Home-2,200,OK,Grupo de Hilos 1-43,text,true,,226394,118,100,100,https://www.xataka.com/,3581,0,3166
+1608142529578,4965,Home,200,OK,Grupo de Hilos 1-84,text,true,,227999,350,100,100,https://www.xataka.com/,48,0,11
+1608142529578,48,Home-0,301,Moved Permanently,Grupo de Hilos 1-84,text,true,,1041,114,100,100,http://xataka.com/,48,0,11
+1608142529626,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-84,text,true,,580,118,100,100,http://www.xataka.com/,23,0,12
+1608142529650,4893,Home-2,200,OK,Grupo de Hilos 1-84,text,true,,226378,118,100,100,https://www.xataka.com/,3380,0,3153
+1608142529470,5292,Home,200,OK,Grupo de Hilos 1-73,text,true,,228028,350,100,100,https://www.xataka.com/,31,0,9
+1608142529609,5151,Home,200,OK,Grupo de Hilos 1-87,text,true,,228001,350,100,100,https://www.xataka.com/,34,0,11
+1608142529470,31,Home-0,301,Moved Permanently,Grupo de Hilos 1-73,text,true,,1041,114,100,100,http://xataka.com/,31,0,9
+1608142529609,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-87,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529502,34,Home-1,301,Moved Permanently,Grupo de Hilos 1-73,text,true,,580,118,100,100,http://www.xataka.com/,34,0,22
+1608142529537,5225,Home-2,200,OK,Grupo de Hilos 1-73,text,true,,226407,118,100,100,https://www.xataka.com/,3530,0,3499
+1608142529280,5476,Home,200,OK,Grupo de Hilos 1-51,text,true,,227945,350,100,100,https://www.xataka.com/,58,0,28
+1608142529092,5656,Home,200,OK,Grupo de Hilos 1-19,text,true,,228023,350,100,100,https://www.xataka.com/,91,0,56
+1608142529280,58,Home-0,301,Moved Permanently,Grupo de Hilos 1-51,text,true,,1041,114,100,100,http://xataka.com/,58,0,28
+1608142529092,120,Home-0,301,Moved Permanently,Grupo de Hilos 1-19,text,true,,1041,114,100,100,http://xataka.com/,91,0,56
+1608142529348,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-51,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529213,38,Home-1,301,Moved Permanently,Grupo de Hilos 1-19,text,true,,580,118,100,100,http://www.xataka.com/,38,0,12
+1608142529372,5384,Home-2,200,OK,Grupo de Hilos 1-51,text,true,,226324,118,100,100,https://www.xataka.com/,3452,0,3263
+1608142529251,5497,Home-2,200,OK,Grupo de Hilos 1-19,text,true,,226402,118,100,100,https://www.xataka.com/,3758,0,3510
+1608142529089,5655,Home,200,OK,Grupo de Hilos 1-24,text,true,,228006,350,100,100,https://www.xataka.com/,97,0,58
+1608142529089,116,Home-0,301,Moved Permanently,Grupo de Hilos 1-24,text,true,,1041,114,100,100,http://xataka.com/,97,0,58
+1608142529211,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-24,text,true,,580,118,100,100,http://www.xataka.com/,27,0,14
+1608142529239,5505,Home-2,200,OK,Grupo de Hilos 1-24,text,true,,226385,118,100,100,https://www.xataka.com/,3805,0,3367
+1608142529228,5515,Home,200,OK,Grupo de Hilos 1-45,text,true,,228021,350,100,100,https://www.xataka.com/,55,0,30
+1608142529228,55,Home-0,301,Moved Permanently,Grupo de Hilos 1-45,text,true,,1041,114,100,100,http://xataka.com/,55,0,30
+1608142529283,28,Home-1,301,Moved Permanently,Grupo de Hilos 1-45,text,true,,580,118,100,100,http://www.xataka.com/,28,0,16
+1608142529343,5400,Home-2,200,OK,Grupo de Hilos 1-45,text,true,,226400,118,100,100,https://www.xataka.com/,3469,0,3271
+1608142529375,5367,Home,200,OK,Grupo de Hilos 1-62,text,true,,227984,350,100,100,https://www.xataka.com/,34,0,11
+1608142529375,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-62,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529410,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-62,text,true,,580,118,100,100,http://www.xataka.com/,25,0,12
+1608142529436,5306,Home-2,200,OK,Grupo de Hilos 1-62,text,true,,226363,118,100,100,https://www.xataka.com/,3399,0,3084
+1608142529086,5655,Home,200,OK,Grupo de Hilos 1-13,text,true,,228070,350,100,100,https://www.xataka.com/,96,0,62
+1608142529086,126,Home-0,301,Moved Permanently,Grupo de Hilos 1-13,text,true,,1041,114,100,100,http://xataka.com/,96,0,62
+1608142529213,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-13,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529240,5501,Home-2,200,OK,Grupo de Hilos 1-13,text,true,,226449,118,100,100,https://www.xataka.com/,3479,0,3375
+1608142529101,5639,Home,200,OK,Grupo de Hilos 1-31,text,true,,228045,350,100,100,https://www.xataka.com/,76,0,44
+1608142529087,5639,Home,200,OK,Grupo de Hilos 1-23,text,true,,228024,350,100,100,https://www.xataka.com/,94,0,60
+1608142529101,119,Home-0,301,Moved Permanently,Grupo de Hilos 1-31,text,true,,1041,114,100,100,http://xataka.com/,76,0,44
+1608142529087,129,Home-0,301,Moved Permanently,Grupo de Hilos 1-23,text,true,,1041,114,100,100,http://xataka.com/,94,0,60
+1608142529221,28,Home-1,301,Moved Permanently,Grupo de Hilos 1-31,text,true,,580,118,100,100,http://www.xataka.com/,28,0,12
+1608142529217,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-23,text,true,,580,118,100,100,http://www.xataka.com/,26,0,11
+1608142529249,5491,Home-2,200,OK,Grupo de Hilos 1-31,text,true,,226424,118,100,100,https://www.xataka.com/,3612,0,3190
+1608142529250,5476,Home-2,200,OK,Grupo de Hilos 1-23,text,true,,226403,118,100,100,https://www.xataka.com/,4202,0,3202
+1608142529661,5056,Home,200,OK,Grupo de Hilos 1-92,text,true,,228012,350,100,100,https://www.xataka.com/,33,0,10
+1608142529661,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-92,text,true,,1041,114,100,100,http://xataka.com/,33,0,10
+1608142529695,20,Home-1,301,Moved Permanently,Grupo de Hilos 1-92,text,true,,580,118,100,100,http://www.xataka.com/,20,0,10
+1608142529715,5002,Home-2,200,OK,Grupo de Hilos 1-92,text,true,,226391,118,100,100,https://www.xataka.com/,3014,0,2911
+1608142529352,5365,Home,200,OK,Grupo de Hilos 1-56,text,true,,228029,350,100,100,https://www.xataka.com/,34,0,10
+1608142529352,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-56,text,true,,1041,114,100,100,http://xataka.com/,34,0,10
+1608142529387,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-56,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529414,5303,Home-2,200,OK,Grupo de Hilos 1-56,text,true,,226408,118,100,100,https://www.xataka.com/,3480,0,3437
+1608142529124,5591,Home,200,OK,Grupo de Hilos 1-34,text,true,,227976,350,100,100,https://www.xataka.com/,63,0,25
+1608142529124,71,Home-0,301,Moved Permanently,Grupo de Hilos 1-34,text,true,,1041,114,100,100,http://xataka.com/,63,0,25
+1608142529199,47,Home-1,301,Moved Permanently,Grupo de Hilos 1-34,text,true,,580,118,100,100,http://www.xataka.com/,47,0,34
+1608142529247,5468,Home-2,200,OK,Grupo de Hilos 1-34,text,true,,226355,118,100,100,https://www.xataka.com/,3519,0,3336
+1608142529422,5290,Home,200,OK,Grupo de Hilos 1-68,text,true,,228006,350,100,100,https://www.xataka.com/,38,0,12
+1608142529422,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-68,text,true,,1041,114,100,100,http://xataka.com/,38,0,12
+1608142529461,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-68,text,true,,580,118,100,100,http://www.xataka.com/,22,0,11
+1608142529486,5226,Home-2,200,OK,Grupo de Hilos 1-68,text,true,,226385,118,100,100,https://www.xataka.com/,3516,0,3319
+1608142529539,5169,Home,200,OK,Grupo de Hilos 1-80,text,true,,227976,350,100,100,https://www.xataka.com/,46,0,23
+1608142529539,46,Home-0,301,Moved Permanently,Grupo de Hilos 1-80,text,true,,1041,114,100,100,http://xataka.com/,46,0,23
+1608142529586,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-80,text,true,,580,118,100,100,http://www.xataka.com/,25,0,12
+1608142529611,5097,Home-2,200,OK,Grupo de Hilos 1-80,text,true,,226355,118,100,100,https://www.xataka.com/,3167,0,2987
+1608142529392,5316,Home,200,OK,Grupo de Hilos 1-64,text,true,,227968,350,100,100,https://www.xataka.com/,32,0,10
+1608142529392,32,Home-0,301,Moved Permanently,Grupo de Hilos 1-64,text,true,,1041,114,100,100,http://xataka.com/,32,0,10
+1608142529424,21,Home-1,301,Moved Permanently,Grupo de Hilos 1-64,text,true,,580,118,100,100,http://www.xataka.com/,21,0,11
+1608142529446,5262,Home-2,200,OK,Grupo de Hilos 1-64,text,true,,226347,118,100,100,https://www.xataka.com/,3289,0,3185
+1608142529483,5225,Home,200,OK,Grupo de Hilos 1-74,text,true,,228032,350,100,100,https://www.xataka.com/,40,0,10
+1608142529483,40,Home-0,301,Moved Permanently,Grupo de Hilos 1-74,text,true,,1041,114,100,100,http://xataka.com/,40,0,10
+1608142529524,29,Home-1,301,Moved Permanently,Grupo de Hilos 1-74,text,true,,580,118,100,100,http://www.xataka.com/,29,0,16
+1608142529553,5155,Home-2,200,OK,Grupo de Hilos 1-74,text,true,,226411,118,100,100,https://www.xataka.com/,3188,0,3004
+1608142529180,5523,Home,200,OK,Grupo de Hilos 1-40,text,true,,228048,350,100,100,https://www.xataka.com/,34,0,11
+1608142529180,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-40,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529215,39,Home-1,301,Moved Permanently,Grupo de Hilos 1-40,text,true,,580,118,100,100,http://www.xataka.com/,39,0,10
+1608142529255,5448,Home-2,200,OK,Grupo de Hilos 1-40,text,true,,226427,118,100,100,https://www.xataka.com/,3269,0,2974
+1608142529086,5617,Home,200,OK,Grupo de Hilos 1-12,text,true,,228045,350,100,100,https://www.xataka.com/,100,0,64
+1608142529086,118,Home-0,301,Moved Permanently,Grupo de Hilos 1-12,text,true,,1041,114,100,100,http://xataka.com/,100,0,64
+1608142529204,35,Home-1,301,Moved Permanently,Grupo de Hilos 1-12,text,true,,580,118,100,100,http://www.xataka.com/,35,0,16
+1608142529239,5464,Home-2,200,OK,Grupo de Hilos 1-12,text,true,,226424,118,100,100,https://www.xataka.com/,3356,0,3292
+1608142529630,5070,Home,200,OK,Grupo de Hilos 1-89,text,true,,227991,350,100,100,https://www.xataka.com/,34,0,9
+1608142529630,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-89,text,true,,1041,114,100,100,http://xataka.com/,34,0,9
+1608142529664,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-89,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529690,5010,Home-2,200,OK,Grupo de Hilos 1-89,text,true,,226370,118,100,100,https://www.xataka.com/,3339,0,3147
+1608142529254,5386,Home,200,OK,Grupo de Hilos 1-48,text,true,,228030,350,100,100,https://www.xataka.com/,38,0,11
+1608142529254,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-48,text,true,,1041,114,100,100,http://xataka.com/,38,0,11
+1608142529293,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-48,text,true,,580,118,100,100,http://www.xataka.com/,40,0,15
+1608142529350,5290,Home-2,200,OK,Grupo de Hilos 1-48,text,true,,226409,118,100,100,https://www.xataka.com/,3396,0,3011
+1608142529086,5592,Home,200,OK,Grupo de Hilos 1-6,text,true,,228090,350,100,100,https://www.xataka.com/,94,0,60
+1608142529086,136,Home-0,301,Moved Permanently,Grupo de Hilos 1-6,text,true,,1041,114,100,100,http://xataka.com/,94,0,60
+1608142529223,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-6,text,true,,580,118,100,100,http://www.xataka.com/,24,0,11
+1608142529247,5431,Home-2,200,OK,Grupo de Hilos 1-6,text,true,,226469,118,100,100,https://www.xataka.com/,3323,0,3236
+1608142529091,5584,Home,200,OK,Grupo de Hilos 1-18,text,true,,227975,350,100,100,https://www.xataka.com/,90,0,56
+1608142529091,128,Home-0,301,Moved Permanently,Grupo de Hilos 1-18,text,true,,1041,114,100,100,http://xataka.com/,90,0,56
+1608142529220,30,Home-1,301,Moved Permanently,Grupo de Hilos 1-18,text,true,,580,118,100,100,http://www.xataka.com/,30,0,15
+1608142529250,5425,Home-2,200,OK,Grupo de Hilos 1-18,text,true,,226354,118,100,100,https://www.xataka.com/,3856,0,3798
+1608142529433,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-66,text,true,,580,118,100,100,http://www.xataka.com/,25,0,13
+1608142529092,5582,Home,200,OK,Grupo de Hilos 1-14,text,true,,228023,350,100,100,https://www.xataka.com/,91,0,55
+1608142529459,4925,Home-2,200,OK,Grupo de Hilos 1-66,text,true,,226386,118,100,100,https://www.xataka.com/,3095,0,3054
+1608142529092,118,Home-0,301,Moved Permanently,Grupo de Hilos 1-14,text,true,,1041,114,100,100,http://xataka.com/,91,0,55
+1608142529211,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-14,text,true,,580,118,100,100,http://www.xataka.com/,26,0,14
+1608142529256,5418,Home-2,200,OK,Grupo de Hilos 1-14,text,true,,226402,118,100,100,https://www.xataka.com/,3311,0,3252
+1608142529092,5580,Home,200,OK,Grupo de Hilos 1-25,text,true,,228106,350,100,100,https://www.xataka.com/,95,0,56
+1608142529092,112,Home-0,301,Moved Permanently,Grupo de Hilos 1-25,text,true,,1041,114,100,100,http://xataka.com/,95,0,56
+1608142529208,36,Home-1,301,Moved Permanently,Grupo de Hilos 1-25,text,true,,580,118,100,100,http://www.xataka.com/,36,0,13
+1608142529245,5427,Home-2,200,OK,Grupo de Hilos 1-25,text,true,,226485,118,100,100,https://www.xataka.com/,3320,0,3197
+1608142529558,5112,Home,200,OK,Grupo de Hilos 1-82,text,true,,228031,350,100,100,https://www.xataka.com/,36,0,11
+1608142529558,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-82,text,true,,1041,114,100,100,http://xataka.com/,36,0,11
+1608142529595,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-82,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529618,5052,Home-2,200,OK,Grupo de Hilos 1-82,text,true,,226410,118,100,100,https://www.xataka.com/,3120,0,3004
+1608142529088,5581,Home,200,OK,Grupo de Hilos 1-9,text,true,,228005,350,100,100,https://www.xataka.com/,99,0,58
+1608142529088,114,Home-0,301,Moved Permanently,Grupo de Hilos 1-9,text,true,,1041,114,100,100,http://xataka.com/,99,0,58
+1608142529203,46,Home-1,301,Moved Permanently,Grupo de Hilos 1-9,text,true,,580,118,100,100,http://www.xataka.com/,46,0,18
+1608142529250,5419,Home-2,200,OK,Grupo de Hilos 1-9,text,true,,226384,118,100,100,https://www.xataka.com/,3616,0,3208
+1608142529619,5047,Home,200,OK,Grupo de Hilos 1-88,text,true,,228022,350,100,100,https://www.xataka.com/,33,0,11
+1608142529619,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-88,text,true,,1041,114,100,100,http://xataka.com/,33,0,11
+1608142529652,31,Home-1,301,Moved Permanently,Grupo de Hilos 1-88,text,true,,580,118,100,100,http://www.xataka.com/,31,0,10
+1608142529683,4983,Home-2,200,OK,Grupo de Hilos 1-88,text,true,,226401,118,100,100,https://www.xataka.com/,3418,0,3361
+1608142529679,4986,Home,200,OK,Grupo de Hilos 1-94,text,true,,228015,350,100,100,https://www.xataka.com/,35,0,10
+1608142529679,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-94,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529715,20,Home-1,301,Moved Permanently,Grupo de Hilos 1-94,text,true,,580,118,100,100,http://www.xataka.com/,20,0,10
+1608142529736,4929,Home-2,200,OK,Grupo de Hilos 1-94,text,true,,226394,118,100,100,https://www.xataka.com/,3125,0,3074
+1608142529219,5444,Home,200,OK,Grupo de Hilos 1-44,text,true,,228013,350,100,100,https://www.xataka.com/,33,0,9
+1608142529219,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-44,text,true,,1041,114,100,100,http://xataka.com/,33,0,9
+1608142529253,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-44,text,true,,580,118,100,100,http://www.xataka.com/,25,0,12
+1608142529279,5384,Home-2,200,OK,Grupo de Hilos 1-44,text,true,,226392,118,100,100,https://www.xataka.com/,3490,0,3332
+1608142529261,5401,Home,200,OK,Grupo de Hilos 1-49,text,true,,227982,350,100,100,https://www.xataka.com/,36,0,11
+1608142529261,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-49,text,true,,1041,114,100,100,http://xataka.com/,36,0,11
+1608142529298,34,Home-1,301,Moved Permanently,Grupo de Hilos 1-49,text,true,,580,118,100,100,http://www.xataka.com/,33,0,13
+1608142529351,5311,Home-2,200,OK,Grupo de Hilos 1-49,text,true,,226361,118,100,100,https://www.xataka.com/,3664,0,3160
+1608142529087,5575,Home,200,OK,Grupo de Hilos 1-20,text,true,,227921,350,100,100,https://www.xataka.com/,96,0,59
+1608142529087,125,Home-0,301,Moved Permanently,Grupo de Hilos 1-20,text,true,,1041,114,100,100,http://xataka.com/,96,0,59
+1608142529212,31,Home-1,301,Moved Permanently,Grupo de Hilos 1-20,text,true,,580,118,100,100,http://www.xataka.com/,31,0,12
+1608142529243,5419,Home-2,200,OK,Grupo de Hilos 1-20,text,true,,226300,118,100,100,https://www.xataka.com/,3532,0,3348
+1608142529432,5226,Home,200,OK,Grupo de Hilos 1-69,text,true,,228031,350,100,100,https://www.xataka.com/,47,0,10
+1608142529432,47,Home-0,301,Moved Permanently,Grupo de Hilos 1-69,text,true,,1041,114,100,100,http://xataka.com/,47,0,10
+1608142529479,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-69,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529505,5153,Home-2,200,OK,Grupo de Hilos 1-69,text,true,,226410,118,100,100,https://www.xataka.com/,3026,0,2983
+1608142529439,5219,Home,200,OK,Grupo de Hilos 1-70,text,true,,228007,350,100,100,https://www.xataka.com/,33,0,10
+1608142529439,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-70,text,true,,1041,114,100,100,http://xataka.com/,33,0,10
+1608142529473,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-70,text,true,,580,118,100,100,http://www.xataka.com/,25,0,12
+1608142529499,5159,Home-2,200,OK,Grupo de Hilos 1-70,text,true,,226386,118,100,100,https://www.xataka.com/,3274,0,3112
+1608142529087,5479,Home,200,OK,Grupo de Hilos 1-16,text,true,,228014,350,100,100,https://www.xataka.com/,88,0,60
+1608142529087,134,Home-0,301,Moved Permanently,Grupo de Hilos 1-16,text,true,,1041,114,100,100,http://xataka.com/,88,0,60
+1608142529222,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-16,text,true,,580,118,100,100,http://www.xataka.com/,26,0,12
+1608142529248,5318,Home-2,200,OK,Grupo de Hilos 1-16,text,true,,226393,118,100,100,https://www.xataka.com/,3852,0,3793
+1608142529714,4860,Home,200,OK,Grupo de Hilos 1-97,text,true,,227981,350,100,100,https://www.xataka.com/,35,0,10
+1608142529714,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-97,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529750,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-97,text,true,,580,118,100,100,http://www.xataka.com/,22,0,10
+1608142529774,4800,Home-2,200,OK,Grupo de Hilos 1-97,text,true,,226360,118,100,100,https://www.xataka.com/,3252,0,3065
+1608142529529,5048,Home,200,OK,Grupo de Hilos 1-78,text,true,,227985,350,100,100,https://www.xataka.com/,35,0,11
+1608142529529,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-78,text,true,,1041,114,100,100,http://xataka.com/,35,0,11
+1608142529566,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-78,text,true,,580,118,100,100,http://www.xataka.com/,24,0,10
+1608142529590,4987,Home-2,200,OK,Grupo de Hilos 1-78,text,true,,226364,118,100,100,https://www.xataka.com/,3209,0,3057
+1608142529311,5267,Home,200,OK,Grupo de Hilos 1-54,text,true,,228067,350,100,100,https://www.xataka.com/,47,0,21
+1608142529311,47,Home-0,301,Moved Permanently,Grupo de Hilos 1-54,text,true,,1041,114,100,100,http://xataka.com/,47,0,21
+1608142529359,21,Home-1,301,Moved Permanently,Grupo de Hilos 1-54,text,true,,580,118,100,100,http://www.xataka.com/,21,0,10
+1608142529380,5198,Home-2,200,OK,Grupo de Hilos 1-54,text,true,,226446,118,100,100,https://www.xataka.com/,3462,0,3426
+1608142529458,5125,Home,200,OK,Grupo de Hilos 1-72,text,true,,228057,350,100,100,https://www.xataka.com/,39,0,12
+1608142529458,39,Home-0,301,Moved Permanently,Grupo de Hilos 1-72,text,true,,1041,114,100,100,http://xataka.com/,39,0,12
+1608142529497,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-72,text,true,,580,118,100,100,http://www.xataka.com/,25,0,11
+1608142529531,5052,Home-2,200,OK,Grupo de Hilos 1-72,text,true,,226436,118,100,100,https://www.xataka.com/,3642,0,3504
+1608142529190,5464,Home,200,OK,Grupo de Hilos 1-41,text,true,,227945,350,100,100,https://www.xataka.com/,35,0,12
+1608142529300,5350,Home,200,OK,Grupo de Hilos 1-53,text,true,,228046,350,100,100,https://www.xataka.com/,38,0,11
+1608142529300,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-53,text,true,,1041,114,100,100,http://xataka.com/,38,0,11
+1608142529349,21,Home-1,301,Moved Permanently,Grupo de Hilos 1-53,text,true,,580,118,100,100,http://www.xataka.com/,21,0,11
+1608142529371,5279,Home-2,200,OK,Grupo de Hilos 1-53,text,true,,226425,118,100,100,https://www.xataka.com/,3474,0,3136
+1608142529115,5530,Home,200,OK,Grupo de Hilos 1-33,text,true,,228009,350,100,100,https://www.xataka.com/,69,0,35
+1608142529133,5504,Home,200,OK,Grupo de Hilos 1-35,text,true,,227999,350,100,100,https://www.xataka.com/,67,0,17
+1608142529115,92,Home-0,301,Moved Permanently,Grupo de Hilos 1-33,text,true,,1041,114,100,100,http://xataka.com/,69,0,35
+1608142529133,67,Home-0,301,Moved Permanently,Grupo de Hilos 1-35,text,true,,1041,114,100,100,http://xataka.com/,67,0,17
+1608142529208,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-33,text,true,,580,118,100,100,http://www.xataka.com/,25,0,13
+1608142529215,42,Home-1,301,Moved Permanently,Grupo de Hilos 1-35,text,true,,580,118,100,100,http://www.xataka.com/,42,0,13
+1608142529234,5411,Home-2,200,OK,Grupo de Hilos 1-33,text,true,,226388,118,100,100,https://www.xataka.com/,3368,0,3301
+1608142529258,5379,Home-2,200,OK,Grupo de Hilos 1-35,text,true,,226378,118,100,100,https://www.xataka.com/,3766,0,3179
+1608142529198,5433,Home,200,OK,Grupo de Hilos 1-42,text,true,,228054,350,100,100,https://www.xataka.com/,53,0,24
+1608142529190,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-41,text,true,,1041,114,100,100,http://xataka.com/,35,0,12
+1608142529226,36,Home-1,301,Moved Permanently,Grupo de Hilos 1-41,text,true,,580,118,100,100,http://www.xataka.com/,36,0,25
+1608142529198,53,Home-0,301,Moved Permanently,Grupo de Hilos 1-42,text,true,,1041,114,100,100,http://xataka.com/,53,0,24
+1608142529263,5391,Home-2,200,OK,Grupo de Hilos 1-41,text,true,,226324,118,100,100,https://www.xataka.com/,4197,0,3777
+1608142529260,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-42,text,true,,580,118,100,100,http://www.xataka.com/,24,0,11
+1608142529285,5346,Home-2,200,OK,Grupo de Hilos 1-42,text,true,,226433,118,100,100,https://www.xataka.com/,3620,0,3584
+1608142529361,5227,Home,200,OK,Grupo de Hilos 1-60,text,true,,228069,350,100,100,https://www.xataka.com/,35,0,10
+1608142529361,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-60,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529397,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-60,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529421,5167,Home-2,200,OK,Grupo de Hilos 1-60,text,true,,226448,118,100,100,https://www.xataka.com/,3305,0,3233
+1608142529087,136,Home-0,301,Moved Permanently,Grupo de Hilos 1-22,text,true,,1041,114,100,100,http://xataka.com/,88,0,59
+1608142529638,4986,Home,200,OK,Grupo de Hilos 1-90,text,true,,228016,350,100,100,https://www.xataka.com/,34,0,11
+1608142529224,31,Home-1,301,Moved Permanently,Grupo de Hilos 1-22,text,true,,580,118,100,100,http://www.xataka.com/,31,0,16
+1608142529638,34,Home-0,301,Moved Permanently,Grupo de Hilos 1-90,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529255,5200,Home-2,200,OK,Grupo de Hilos 1-22,text,true,,226379,118,100,100,https://www.xataka.com/,3507,0,3310
+1608142529673,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-90,text,true,,580,118,100,100,http://www.xataka.com/,24,0,11
+1608142529697,4927,Home-2,200,OK,Grupo de Hilos 1-90,text,true,,226395,118,100,100,https://www.xataka.com/,3188,0,3143
+1608142529087,5527,Home,200,OK,Grupo de Hilos 1-10,text,true,,228015,350,100,100,https://www.xataka.com/,98,0,62
+1608142529087,119,Home-0,301,Moved Permanently,Grupo de Hilos 1-10,text,true,,1041,114,100,100,http://xataka.com/,98,0,62
+1608142529210,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-10,text,true,,580,118,100,100,http://www.xataka.com/,24,0,12
+1608142529235,5379,Home-2,200,OK,Grupo de Hilos 1-10,text,true,,226394,118,100,100,https://www.xataka.com/,3787,0,3594
+1608142529092,5519,Home,200,OK,Grupo de Hilos 1-7,text,true,,228031,350,100,100,https://www.xataka.com/,92,0,54
+1608142529092,117,Home-0,301,Moved Permanently,Grupo de Hilos 1-7,text,true,,1041,114,100,100,http://xataka.com/,92,0,54
+1608142529210,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-7,text,true,,580,118,100,100,http://www.xataka.com/,27,0,13
+1608142529238,5373,Home-2,200,OK,Grupo de Hilos 1-7,text,true,,226410,118,100,100,https://www.xataka.com/,3593,0,3123
+1608142529092,5427,Home,200,OK,Grupo de Hilos 1-29,text,true,,228014,350,100,100,https://www.xataka.com/,91,0,57
+1608142529092,120,Home-0,301,Moved Permanently,Grupo de Hilos 1-29,text,true,,1041,114,100,100,http://xataka.com/,91,0,57
+1608142529218,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-29,text,true,,580,118,100,100,http://www.xataka.com/,22,0,11
+1608142529241,5278,Home-2,200,OK,Grupo de Hilos 1-29,text,true,,226393,118,100,100,https://www.xataka.com/,3698,0,3615
+1608142529529,4993,Home,200,OK,Grupo de Hilos 1-79,text,true,,227984,350,100,100,https://www.xataka.com/,36,0,10
+1608142529529,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-79,text,true,,1041,114,100,100,http://xataka.com/,36,0,10
+1608142529565,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-79,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529588,4934,Home-2,200,OK,Grupo de Hilos 1-79,text,true,,226363,118,100,100,https://www.xataka.com/,3461,0,3135
+1608142529092,5431,Home,200,OK,Grupo de Hilos 1-3,text,true,,227982,350,100,100,https://www.xataka.com/,88,0,54
+1608142529092,127,Home-0,301,Moved Permanently,Grupo de Hilos 1-3,text,true,,1041,114,100,100,http://xataka.com/,88,0,54
+1608142529220,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-3,text,true,,580,118,100,100,http://www.xataka.com/,25,0,12
+1608142529246,5277,Home-2,200,OK,Grupo de Hilos 1-3,text,true,,226361,118,100,100,https://www.xataka.com/,3448,0,3372
+1608142529087,5437,Home,200,OK,Grupo de Hilos 1-28,text,true,,228046,350,100,100,https://www.xataka.com/,101,0,63
+1608142529087,103,Home-0,301,Moved Permanently,Grupo de Hilos 1-28,text,true,,1041,114,100,100,http://xataka.com/,101,0,63
+1608142529193,59,Home-1,301,Moved Permanently,Grupo de Hilos 1-28,text,true,,580,118,100,100,http://www.xataka.com/,59,0,28
+1608142529260,5264,Home-2,200,OK,Grupo de Hilos 1-28,text,true,,226425,118,100,100,https://www.xataka.com/,3725,0,3559
+1608142529489,5035,Home,200,OK,Grupo de Hilos 1-75,text,true,,227976,350,100,100,https://www.xataka.com/,33,0,11
+1608142529151,5451,Home,200,OK,Grupo de Hilos 1-37,text,true,,228005,350,100,100,https://www.xataka.com/,34,0,11
+1608142529489,33,Home-0,301,Moved Permanently,Grupo de Hilos 1-75,text,true,,1041,114,100,100,http://xataka.com/,33,0,11
+1608142529151,54,Home-0,301,Moved Permanently,Grupo de Hilos 1-37,text,true,,1041,114,100,100,http://xataka.com/,34,0,11
+1608142529530,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-75,text,true,,580,118,100,100,http://www.xataka.com/,24,0,11
+1608142529206,25,Home-1,301,Moved Permanently,Grupo de Hilos 1-37,text,true,,580,118,100,100,http://www.xataka.com/,25,0,13
+1608142529555,4969,Home-2,200,OK,Grupo de Hilos 1-75,text,true,,226355,118,100,100,https://www.xataka.com/,3368,0,2999
+1608142529232,5370,Home-2,200,OK,Grupo de Hilos 1-37,text,true,,226384,118,100,100,https://www.xataka.com/,3594,0,3395
+1608142529161,5374,Home,200,OK,Grupo de Hilos 1-38,text,true,,227975,350,100,100,https://www.xataka.com/,40,0,11
+1608142529161,40,Home-0,301,Moved Permanently,Grupo de Hilos 1-38,text,true,,1041,114,100,100,http://xataka.com/,40,0,11
+1608142529202,64,Home-1,301,Moved Permanently,Grupo de Hilos 1-38,text,true,,580,118,100,100,http://www.xataka.com/,64,0,54
+1608142529267,5268,Home-2,200,OK,Grupo de Hilos 1-38,text,true,,226354,118,100,100,https://www.xataka.com/,3467,0,3368
+1608142529086,5512,Home,200,OK,Grupo de Hilos 1-5,text,true,,228045,350,100,100,https://www.xataka.com/,97,0,62
+1608142529086,125,Home-0,301,Moved Permanently,Grupo de Hilos 1-5,text,true,,1041,114,100,100,http://xataka.com/,97,0,62
+1608142529211,21,Home-1,301,Moved Permanently,Grupo de Hilos 1-5,text,true,,580,118,100,100,http://www.xataka.com/,21,0,10
+1608142529233,5365,Home-2,200,OK,Grupo de Hilos 1-5,text,true,,226424,118,100,100,https://www.xataka.com/,3611,0,3569
+1608142529548,5050,Home,200,OK,Grupo de Hilos 1-81,text,true,,227920,350,100,100,https://www.xataka.com/,35,0,10
+1608142529377,5219,Home,200,OK,Grupo de Hilos 1-63,text,true,,227985,350,100,100,https://www.xataka.com/,35,0,10
+1608142529548,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-81,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529377,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-63,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529583,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-81,text,true,,580,118,100,100,http://www.xataka.com/,24,0,12
+1608142529413,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-63,text,true,,580,118,100,100,http://www.xataka.com/,22,0,11
+1608142529607,4991,Home-2,200,OK,Grupo de Hilos 1-81,text,true,,226299,118,100,100,https://www.xataka.com/,3175,0,2976
+1608142529436,5160,Home-2,200,OK,Grupo de Hilos 1-63,text,true,,226364,118,100,100,https://www.xataka.com/,3453,0,3407
+1608142529510,5027,Home,200,OK,Grupo de Hilos 1-77,text,true,,228007,350,100,100,https://www.xataka.com/,50,0,23
+1608142529510,50,Home-0,301,Moved Permanently,Grupo de Hilos 1-77,text,true,,1041,114,100,100,http://xataka.com/,50,0,23
+1608142529561,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-77,text,true,,580,118,100,100,http://www.xataka.com/,23,0,11
+1608142529585,4952,Home-2,200,OK,Grupo de Hilos 1-77,text,true,,226386,118,100,100,https://www.xataka.com/,3105,0,2961
+1608142529087,5505,Home,200,OK,Grupo de Hilos 1-2,text,true,,228029,350,100,100,https://www.xataka.com/,95,0,62
+1608142529087,126,Home-0,301,Moved Permanently,Grupo de Hilos 1-2,text,true,,1041,114,100,100,http://xataka.com/,95,0,62
+1608142529214,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-2,text,true,,580,118,100,100,http://www.xataka.com/,27,0,11
+1608142529241,5351,Home-2,200,OK,Grupo de Hilos 1-2,text,true,,226408,118,100,100,https://www.xataka.com/,3566,0,3398
+1608142529344,5195,Home,200,OK,Grupo de Hilos 1-57,text,true,,228005,350,100,100,https://www.xataka.com/,37,0,16
+1608142529689,4897,Home,200,OK,Grupo de Hilos 1-95,text,true,,228023,350,100,100,https://www.xataka.com/,32,0,9
+1608142529344,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-57,text,true,,1041,114,100,100,http://xataka.com/,37,0,16
+1608142529689,32,Home-0,301,Moved Permanently,Grupo de Hilos 1-95,text,true,,1041,114,100,100,http://xataka.com/,32,0,9
+1608142529382,27,Home-1,301,Moved Permanently,Grupo de Hilos 1-57,text,true,,580,118,100,100,http://www.xataka.com/,27,0,14
+1608142529722,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-95,text,true,,580,118,100,100,http://www.xataka.com/,26,0,13
+1608142529410,5129,Home-2,200,OK,Grupo de Hilos 1-57,text,true,,226384,118,100,100,https://www.xataka.com/,3376,0,3244
+1608142529748,4838,Home-2,200,OK,Grupo de Hilos 1-95,text,true,,226402,118,100,100,https://www.xataka.com/,3742,0,2730
+1608142529504,5081,Home,200,OK,Grupo de Hilos 1-76,text,true,,228021,350,100,100,https://www.xataka.com/,47,0,20
+1608142529504,47,Home-0,301,Moved Permanently,Grupo de Hilos 1-76,text,true,,1041,114,100,100,http://xataka.com/,47,0,20
+1608142529552,23,Home-1,301,Moved Permanently,Grupo de Hilos 1-76,text,true,,580,118,100,100,http://www.xataka.com/,23,0,12
+1608142529576,5009,Home-2,200,OK,Grupo de Hilos 1-76,text,true,,226400,118,100,100,https://www.xataka.com/,3123,0,2907
+1608142529355,5187,Home,200,OK,Grupo de Hilos 1-59,text,true,,227991,350,100,100,https://www.xataka.com/,35,0,11
+1608142529355,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-59,text,true,,1041,114,100,100,http://xataka.com/,35,0,11
+1608142529391,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-59,text,true,,580,118,100,100,http://www.xataka.com/,24,0,13
+1608142529416,5126,Home-2,200,OK,Grupo de Hilos 1-59,text,true,,226370,118,100,100,https://www.xataka.com/,3342,0,3170
+1608142534450,151,Movil,200,OK,Grupo de Hilos 1-50,text,true,,176996,135,100,100,https://www.xataka.com/categoria/moviles,57,0,0
+1608142534508,222,Movil,200,OK,Grupo de Hilos 1-71,text,true,,177051,135,100,100,https://www.xataka.com/categoria/moviles,91,0,0
+1608142529145,49,Home-0,301,Moved Permanently,Grupo de Hilos 1-36,text,true,,1041,114,100,100,http://xataka.com/,49,0,14
+1608142529246,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-47,text,true,,1041,114,100,100,http://xataka.com/,35,0,10
+1608142529281,52,Home-1,301,Moved Permanently,Grupo de Hilos 1-47,text,true,,580,118,100,100,http://www.xataka.com/,52,0,27
+1608142529195,74,Home-1,301,Moved Permanently,Grupo de Hilos 1-36,text,true,,580,118,100,100,http://www.xataka.com/,74,0,61
+1608142529350,4659,Home-2,200,OK,Grupo de Hilos 1-47,text,true,,226340,118,100,100,https://www.xataka.com/,3222,0,2877
+1608142529269,4778,Home-2,200,OK,Grupo de Hilos 1-36,text,true,,226346,118,100,100,https://www.xataka.com/,3533,0,3089
+1608142529245,4942,Home-2,200,OK,Grupo de Hilos 1-4,text,true,,226393,118,100,100,https://www.xataka.com/,3297,0,3215
+1608142529644,20,Home-1,301,Moved Permanently,Grupo de Hilos 1-87,text,true,,580,118,100,100,http://www.xataka.com/,20,0,10
+1608142529665,5095,Home-2,200,OK,Grupo de Hilos 1-87,text,true,,226380,118,100,100,https://www.xataka.com/,3441,0,3383
+1608142534652,170,Movil,200,OK,Grupo de Hilos 1-1,text,true,,176973,135,100,100,https://www.xataka.com/categoria/moviles,58,0,0
+1608142534518,319,Movil,200,OK,Grupo de Hilos 1-30,text,true,,177042,135,100,100,https://www.xataka.com/categoria/moviles,48,0,0
+1608142534442,284,Movil,200,OK,Grupo de Hilos 1-96,text,true,,176996,135,100,100,https://www.xataka.com/categoria/moviles,73,0,0
+1608142534516,326,Movil,200,OK,Grupo de Hilos 1-91,text,true,,176995,135,100,100,https://www.xataka.com/categoria/moviles,96,0,0
+1608142534444,362,Movil,200,OK,Grupo de Hilos 1-32,text,true,,177065,135,100,100,https://www.xataka.com/categoria/moviles,202,0,0
+1608142534515,309,Movil,200,OK,Grupo de Hilos 1-26,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,66,0,0
+1608142534509,319,Movil,200,OK,Grupo de Hilos 1-55,text,true,,177013,135,100,100,https://www.xataka.com/categoria/moviles,84,0,0
+1608142534436,389,Movil,200,OK,Grupo de Hilos 1-65,text,true,,176995,135,100,100,https://www.xataka.com/categoria/moviles,189,0,0
+1608142535069,400,Movil,200,OK,Grupo de Hilos 1-9,text,true,,177028,135,100,100,https://www.xataka.com/categoria/moviles,31,0,0
+1608142534804,508,Movil,200,OK,Grupo de Hilos 1-15,text,true,,177043,135,100,100,https://www.xataka.com/categoria/moviles,37,0,0
+1608142534904,432,Movil,200,OK,Grupo de Hilos 1-23,text,true,,177083,135,100,100,https://www.xataka.com/categoria/moviles,144,0,0
+1608142534900,435,Movil,200,OK,Grupo de Hilos 1-19,text,true,,177052,135,100,100,https://www.xataka.com/categoria/moviles,39,0,0
+1608142535524,356,Home,200,OK,Grupo de Hilos 1-91,text,true,,228020,350,100,100,https://www.xataka.com/,27,0,0
+1608142535524,27,Home-0,301,Moved Permanently,Grupo de Hilos 1-91,text,true,,1041,114,100,100,http://xataka.com/,27,0,0
+1608142535551,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-91,text,true,,580,118,100,100,http://www.xataka.com/,14,0,0
+1608142534900,331,Movil,200,OK,Grupo de Hilos 1-51,text,true,,177004,135,100,100,https://www.xataka.com/categoria/moviles,30,0,0
+1608142535099,890,Home,200,OK,Grupo de Hilos 1-50,text,true,,227974,350,100,100,https://www.xataka.com/,71,0,0
+1608142535099,71,Home-0,301,Moved Permanently,Grupo de Hilos 1-50,text,true,,1041,114,100,100,http://xataka.com/,71,0,0
+1608142535170,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-50,text,true,,580,118,100,100,http://www.xataka.com/,40,0,0
+1608142535210,779,Home-2,200,OK,Grupo de Hilos 1-50,text,true,,226353,118,100,100,https://www.xataka.com/,417,0,0
+1608142534447,567,Movil,200,OK,Grupo de Hilos 1-61,text,true,,176989,135,100,100,https://www.xataka.com/categoria/moviles,65,0,0
+1608142535053,670,Movil,200,OK,Grupo de Hilos 1-6,text,true,,176981,135,100,100,https://www.xataka.com/categoria/moviles,42,0,0
+1608142535077,522,Movil,200,OK,Grupo de Hilos 1-42,text,true,,177011,135,100,100,https://www.xataka.com/categoria/moviles,45,0,0
+1608142535095,407,Movil,200,OK,Grupo de Hilos 1-95,text,true,,177035,135,100,100,https://www.xataka.com/categoria/moviles,80,0,0
+1608142534458,554,Movil,200,OK,Grupo de Hilos 1-83,text,true,,176986,135,100,100,https://www.xataka.com/categoria/moviles,47,0,0
+1608142534923,564,Movil,200,OK,Grupo de Hilos 1-12,text,true,,177028,135,100,100,https://www.xataka.com/categoria/moviles,114,0,0
+1608142534510,1081,Movil,200,OK,Grupo de Hilos 1-86,text,true,,177050,135,100,100,https://www.xataka.com/categoria/moviles,308,0,0
+1608142534437,397,Movil,200,OK,Grupo de Hilos 1-8,text,true,,177041,135,100,100,https://www.xataka.com/categoria/moviles,222,0,0
+1608142535516,695,Home,200,OK,Grupo de Hilos 1-30,text,true,,228007,350,100,100,https://www.xataka.com/,64,0,0
+1608142535516,64,Home-0,301,Moved Permanently,Grupo de Hilos 1-30,text,true,,1041,114,100,100,http://xataka.com/,64,0,0
+1608142535580,42,Home-1,301,Moved Permanently,Grupo de Hilos 1-30,text,true,,580,118,100,100,http://www.xataka.com/,42,0,0
+1608142535622,589,Home-2,200,OK,Grupo de Hilos 1-30,text,true,,226386,118,100,100,https://www.xataka.com/,42,0,0
+1608142535565,315,Home-2,200,OK,Grupo de Hilos 1-91,text,true,,226399,118,100,100,https://www.xataka.com/,30,0,0
+1608142534510,583,Movil,200,OK,Grupo de Hilos 1-17,text,true,,177011,135,100,100,https://www.xataka.com/categoria/moviles,262,0,0
+1608142534536,313,Movil,200,OK,Grupo de Hilos 1-99,text,true,,177027,135,100,100,https://www.xataka.com/categoria/moviles,40,0,0
+1608142534509,410,Movil,200,OK,Grupo de Hilos 1-52,text,true,,177034,135,100,100,https://www.xataka.com/categoria/moviles,260,0,0
+1608142535526,831,Home,200,OK,Grupo de Hilos 1-32,text,true,,228020,350,100,100,https://www.xataka.com/,25,0,0
+1608142535526,25,Home-0,301,Moved Permanently,Grupo de Hilos 1-32,text,true,,1041,114,100,100,http://xataka.com/,25,0,0
+1608142535551,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-32,text,true,,580,118,100,100,http://www.xataka.com/,13,0,0
+1608142535564,793,Home-2,200,OK,Grupo de Hilos 1-32,text,true,,226399,118,100,100,https://www.xataka.com/,180,0,0
+1608142535508,840,Home,200,OK,Grupo de Hilos 1-71,text,true,,227977,350,100,100,https://www.xataka.com/,42,0,0
+1608142535508,42,Home-0,301,Moved Permanently,Grupo de Hilos 1-71,text,true,,1041,114,100,100,http://xataka.com/,42,0,0
+1608142535550,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-71,text,true,,580,118,100,100,http://www.xataka.com/,15,0,0
+1608142535565,783,Home-2,200,OK,Grupo de Hilos 1-71,text,true,,226356,118,100,100,https://www.xataka.com/,172,0,0
+1608142535077,434,Movil,200,OK,Grupo de Hilos 1-33,text,true,,177013,135,100,100,https://www.xataka.com/categoria/moviles,118,0,0
+1608142534904,674,Movil,200,OK,Grupo de Hilos 1-92,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,137,0,0
+1608142535093,716,Movil,200,OK,Grupo de Hilos 1-5,text,true,,177025,135,100,100,https://www.xataka.com/categoria/moviles,432,0,0
+1608142534516,344,Movil,200,OK,Grupo de Hilos 1-11,text,true,,177066,135,100,100,https://www.xataka.com/categoria/moviles,73,0,0
+1608142534508,743,Movil,200,OK,Grupo de Hilos 1-93,text,true,,177050,135,100,100,https://www.xataka.com/categoria/moviles,304,0,0
+1608142535078,444,Movil,200,OK,Grupo de Hilos 1-60,text,true,,177027,135,100,100,https://www.xataka.com/categoria/moviles,94,0,0
+1608142534532,315,Movil,200,OK,Grupo de Hilos 1-85,text,true,,177021,135,100,100,https://www.xataka.com/categoria/moviles,47,0,0
+1608142535092,405,Movil,200,OK,Grupo de Hilos 1-38,text,true,,177059,135,100,100,https://www.xataka.com/categoria/moviles,96,0,0
+1608142535076,668,Movil,200,OK,Grupo de Hilos 1-53,text,true,,176996,135,100,100,https://www.xataka.com/categoria/moviles,48,0,0
+1608142535536,1005,Home,200,OK,Grupo de Hilos 1-55,text,true,,227998,350,100,100,https://www.xataka.com/,23,0,0
+1608142535536,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-55,text,true,,1041,114,100,100,http://xataka.com/,23,0,0
+1608142535560,60,Home-1,301,Moved Permanently,Grupo de Hilos 1-55,text,true,,580,118,100,100,http://www.xataka.com/,60,0,0
+1608142535620,921,Home-2,200,OK,Grupo de Hilos 1-55,text,true,,226377,118,100,100,https://www.xataka.com/,113,0,0
+1608142535532,1101,Home,200,OK,Grupo de Hilos 1-26,text,true,,227992,350,100,100,https://www.xataka.com/,76,0,0
+1608142535532,76,Home-0,301,Moved Permanently,Grupo de Hilos 1-26,text,true,,1041,114,100,100,http://xataka.com/,76,0,0
+1608142535608,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-26,text,true,,580,118,100,100,http://www.xataka.com/,13,0,0
+1608142535621,1012,Home-2,200,OK,Grupo de Hilos 1-26,text,true,,226371,118,100,100,https://www.xataka.com/,46,0,0
+1608142535077,714,Movil,200,OK,Grupo de Hilos 1-41,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,44,0,0
+1608142535516,1158,Home,200,OK,Grupo de Hilos 1-96,text,true,,228047,350,100,100,https://www.xataka.com/,39,0,0
+1608142535516,39,Home-0,301,Moved Permanently,Grupo de Hilos 1-96,text,true,,1041,114,100,100,http://xataka.com/,39,0,0
+1608142535555,193,Home-1,301,Moved Permanently,Grupo de Hilos 1-96,text,true,,580,118,100,100,http://www.xataka.com/,193,0,0
+1608142535748,926,Home-2,200,OK,Grupo de Hilos 1-96,text,true,,226426,118,100,100,https://www.xataka.com/,42,0,0
+1608142534903,660,Movil,200,OK,Grupo de Hilos 1-13,text,true,,177005,135,100,100,https://www.xataka.com/categoria/moviles,43,0,0
+1608142536168,685,Home,200,OK,Grupo de Hilos 1-6,text,true,,228042,350,100,100,https://www.xataka.com/,28,0,0
+1608142536168,28,Home-0,301,Moved Permanently,Grupo de Hilos 1-6,text,true,,1041,114,100,100,http://xataka.com/,28,0,0
+1608142536196,18,Home-1,301,Moved Permanently,Grupo de Hilos 1-6,text,true,,580,118,100,100,http://www.xataka.com/,18,0,0
+1608142536214,639,Home-2,200,OK,Grupo de Hilos 1-6,text,true,,226421,118,100,100,https://www.xataka.com/,239,0,0
+1608142535784,1073,Home,200,OK,Grupo de Hilos 1-65,text,true,,227944,350,100,100,https://www.xataka.com/,443,0,0
+1608142535784,443,Home-0,301,Moved Permanently,Grupo de Hilos 1-65,text,true,,1041,114,100,100,http://xataka.com/,443,0,0
+1608142536228,221,Home-1,301,Moved Permanently,Grupo de Hilos 1-65,text,true,,580,118,100,100,http://www.xataka.com/,221,0,0
+1608142536449,408,Home-2,200,OK,Grupo de Hilos 1-65,text,true,,226323,118,100,100,https://www.xataka.com/,99,0,0
+1608142535906,957,Home,200,OK,Grupo de Hilos 1-19,text,true,,227973,350,100,100,https://www.xataka.com/,306,0,0
+1608142535906,306,Home-0,301,Moved Permanently,Grupo de Hilos 1-19,text,true,,1041,114,100,100,http://xataka.com/,306,0,0
+1608142536212,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-19,text,true,,580,118,100,100,http://www.xataka.com/,40,0,0
+1608142536253,610,Home-2,200,OK,Grupo de Hilos 1-19,text,true,,226352,118,100,100,https://www.xataka.com/,335,0,0
+1608142534904,551,Movil,200,OK,Grupo de Hilos 1-31,text,true,,176981,135,100,100,https://www.xataka.com/categoria/moviles,181,0,0
+1608142534803,1205,Movil,200,OK,Grupo de Hilos 1-100,text,true,,177026,135,100,100,https://www.xataka.com/categoria/moviles,225,0,0
+1608142535076,1050,Movil,200,OK,Grupo de Hilos 1-78,text,true,,177020,135,100,100,https://www.xataka.com/categoria/moviles,39,0,0
+1608142534921,407,Movil,200,OK,Grupo de Hilos 1-64,text,true,,177043,135,100,100,https://www.xataka.com/categoria/moviles,67,0,0
+1608142535084,1372,Movil,200,OK,Grupo de Hilos 1-10,text,true,,177119,135,100,100,https://www.xataka.com/categoria/moviles,559,0,0
+1608142534802,749,Movil,200,OK,Grupo de Hilos 1-27,text,true,,177058,135,100,100,https://www.xataka.com/categoria/moviles,57,0,0
+1608142536164,876,Home,200,OK,Grupo de Hilos 1-42,text,true,,227905,350,100,100,https://www.xataka.com/,32,0,0
+1608142536164,32,Home-0,301,Moved Permanently,Grupo de Hilos 1-42,text,true,,1041,114,100,100,http://xataka.com/,32,0,0
+1608142536196,17,Home-1,301,Moved Permanently,Grupo de Hilos 1-42,text,true,,580,118,100,100,http://www.xataka.com/,17,0,0
+1608142536213,827,Home-2,200,OK,Grupo de Hilos 1-42,text,true,,226284,118,100,100,https://www.xataka.com/,136,0,0
+1608142534810,807,Movil,200,OK,Grupo de Hilos 1-58,text,true,,176965,135,100,100,https://www.xataka.com/categoria/moviles,42,0,0
+1608142535517,1530,Home,200,OK,Grupo de Hilos 1-1,text,true,,227968,350,100,100,https://www.xataka.com/,219,0,0
+1608142535517,219,Home-0,301,Moved Permanently,Grupo de Hilos 1-1,text,true,,1041,114,100,100,http://xataka.com/,219,0,0
+1608142535736,24,Home-1,301,Moved Permanently,Grupo de Hilos 1-1,text,true,,580,118,100,100,http://www.xataka.com/,24,0,0
+1608142535760,1287,Home-2,200,OK,Grupo de Hilos 1-1,text,true,,226347,118,100,100,https://www.xataka.com/,41,0,0
+1608142534922,686,Movil,200,OK,Grupo de Hilos 1-40,text,true,,176987,135,100,100,https://www.xataka.com/categoria/moviles,123,0,0
+1608142534820,1264,Movil,200,OK,Grupo de Hilos 1-46,text,true,,176997,135,100,100,https://www.xataka.com/categoria/moviles,201,0,0
+1608142535077,1166,Movil,200,OK,Grupo de Hilos 1-35,text,true,,176995,135,100,100,https://www.xataka.com/categoria/moviles,40,0,0
+1608142535091,660,Movil,200,OK,Grupo de Hilos 1-28,text,true,,177002,135,100,100,https://www.xataka.com/categoria/moviles,418,0,0
+1608142535090,684,Movil,200,OK,Grupo de Hilos 1-3,text,true,,177049,135,100,100,https://www.xataka.com/categoria/moviles,73,0,0
+1608142535073,1315,Movil,200,OK,Grupo de Hilos 1-70,text,true,,177004,135,100,100,https://www.xataka.com/categoria/moviles,50,0,0
+1608142536085,1009,Home,200,OK,Grupo de Hilos 1-12,text,true,,227936,350,100,100,https://www.xataka.com/,299,0,0
+1608142536085,299,Home-0,301,Moved Permanently,Grupo de Hilos 1-12,text,true,,1041,114,100,100,http://xataka.com/,299,0,0
+1608142536384,31,Home-1,301,Moved Permanently,Grupo de Hilos 1-12,text,true,,580,118,100,100,http://www.xataka.com/,31,0,0
+1608142536416,678,Home-2,200,OK,Grupo de Hilos 1-12,text,true,,226315,118,100,100,https://www.xataka.com/,179,0,0
+1608142534817,1579,Movil,200,OK,Grupo de Hilos 1-67,text,true,,177035,135,100,100,https://www.xataka.com/categoria/moviles,36,0,0
+1608142536072,936,Home,200,OK,Grupo de Hilos 1-83,text,true,,227984,350,100,100,https://www.xataka.com/,300,0,0
+1608142536072,300,Home-0,301,Moved Permanently,Grupo de Hilos 1-83,text,true,,1041,114,100,100,http://xataka.com/,300,0,0
+1608142536372,43,Home-1,301,Moved Permanently,Grupo de Hilos 1-83,text,true,,580,118,100,100,http://www.xataka.com/,43,0,0
+1608142536416,592,Home-2,200,OK,Grupo de Hilos 1-83,text,true,,226363,118,100,100,https://www.xataka.com/,185,0,0
+1608142534766,1114,Movil,200,OK,Grupo de Hilos 1-39,text,true,,177042,135,100,100,https://www.xataka.com/categoria/moviles,55,0,0
+1608142535064,1161,Movil,200,OK,Grupo de Hilos 1-66,text,true,,177044,135,100,100,https://www.xataka.com/categoria/moviles,49,0,0
+1608142534899,1252,Movil,200,OK,Grupo de Hilos 1-73,text,true,,177020,135,100,100,https://www.xataka.com/categoria/moviles,209,0,0
+1608142535070,1322,Movil,200,OK,Grupo de Hilos 1-94,text,true,,177004,135,100,100,https://www.xataka.com/categoria/moviles,34,0,0
+1608142536071,1083,Home,200,OK,Grupo de Hilos 1-95,text,true,,228031,350,100,100,https://www.xataka.com/,306,0,0
+1608142536071,306,Home-0,301,Moved Permanently,Grupo de Hilos 1-95,text,true,,1041,114,100,100,http://xataka.com/,306,0,0
+1608142536377,41,Home-1,301,Moved Permanently,Grupo de Hilos 1-95,text,true,,580,118,100,100,http://www.xataka.com/,41,0,0
+1608142536418,736,Home-2,200,OK,Grupo de Hilos 1-95,text,true,,226410,118,100,100,https://www.xataka.com/,134,0,0
+1608142534908,1099,Movil,200,OK,Grupo de Hilos 1-34,text,true,,176988,135,100,100,https://www.xataka.com/categoria/moviles,149,0,0
+1608142535075,1115,Movil,200,OK,Grupo de Hilos 1-72,text,true,,177020,135,100,100,https://www.xataka.com/categoria/moviles,478,0,0
+1608142535089,1080,Movil,200,OK,Grupo de Hilos 1-29,text,true,,177043,135,100,100,https://www.xataka.com/categoria/moviles,68,0,0
+1608142535068,734,Movil,200,OK,Grupo de Hilos 1-82,text,true,,177058,135,100,100,https://www.xataka.com/categoria/moviles,41,0,0
+1608142536412,784,Home,200,OK,Grupo de Hilos 1-52,text,true,,227999,350,100,100,https://www.xataka.com/,58,0,0
+1608142536412,58,Home-0,301,Moved Permanently,Grupo de Hilos 1-52,text,true,,1041,114,100,100,http://xataka.com/,58,0,0
+1608142536470,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-52,text,true,,580,118,100,100,http://www.xataka.com/,40,0,0
+1608142536510,686,Home-2,200,OK,Grupo de Hilos 1-52,text,true,,226378,118,100,100,https://www.xataka.com/,69,0,0
+1608142536007,1225,Home,200,OK,Grupo de Hilos 1-61,text,true,,227951,350,100,100,https://www.xataka.com/,161,0,0
+1608142536007,161,Home-0,301,Moved Permanently,Grupo de Hilos 1-61,text,true,,1041,114,100,100,http://xataka.com/,161,0,0
+1608142536168,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-61,text,true,,580,118,100,100,http://www.xataka.com/,15,0,0
+1608142536184,1048,Home-2,200,OK,Grupo de Hilos 1-61,text,true,,226330,118,100,100,https://www.xataka.com/,43,0,0
+1608142535864,1382,Home,200,OK,Grupo de Hilos 1-9,text,true,,228038,350,100,100,https://www.xataka.com/,36,0,0
+1608142535864,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-9,text,true,,1041,114,100,100,http://xataka.com/,36,0,0
+1608142535900,324,Home-1,301,Moved Permanently,Grupo de Hilos 1-9,text,true,,580,118,100,100,http://www.xataka.com/,324,0,0
+1608142536224,1022,Home-2,200,OK,Grupo de Hilos 1-9,text,true,,226417,118,100,100,https://www.xataka.com/,232,0,0
+1608142535093,1123,Movil,200,OK,Grupo de Hilos 1-63,text,true,,177020,135,100,100,https://www.xataka.com/categoria/moviles,92,0,0
+1608142536216,1071,Home,200,OK,Grupo de Hilos 1-51,text,true,,228038,350,100,100,https://www.xataka.com/,212,0,0
+1608142536216,212,Home-0,301,Moved Permanently,Grupo de Hilos 1-51,text,true,,1041,114,100,100,http://xataka.com/,212,0,0
+1608142536428,136,Home-1,301,Moved Permanently,Grupo de Hilos 1-51,text,true,,580,118,100,100,http://www.xataka.com/,136,0,0
+1608142536564,723,Home-2,200,OK,Grupo de Hilos 1-51,text,true,,226417,118,100,100,https://www.xataka.com/,58,0,0
+1608142535872,1449,Home,200,OK,Grupo de Hilos 1-23,text,true,,227950,350,100,100,https://www.xataka.com/,448,0,0
+1608142535872,448,Home-0,301,Moved Permanently,Grupo de Hilos 1-23,text,true,,1041,114,100,100,http://xataka.com/,448,0,0
+1608142536320,44,Home-1,301,Moved Permanently,Grupo de Hilos 1-23,text,true,,580,118,100,100,http://www.xataka.com/,44,0,0
+1608142536364,957,Home-2,200,OK,Grupo de Hilos 1-23,text,true,,226329,118,100,100,https://www.xataka.com/,101,0,0
+1608142534816,937,Movil,200,OK,Grupo de Hilos 1-43,text,true,,177013,135,100,100,https://www.xataka.com/categoria/moviles,43,0,0
+1608142535093,1131,Movil,200,OK,Grupo de Hilos 1-81,text,true,,177042,135,100,100,https://www.xataka.com/categoria/moviles,63,0,0
+1608142534804,1574,Movil,200,OK,Grupo de Hilos 1-21,text,true,,177067,135,100,100,https://www.xataka.com/categoria/moviles,52,0,0
+1608142535096,1069,Movil,200,OK,Grupo de Hilos 1-76,text,true,,176989,135,100,100,https://www.xataka.com/categoria/moviles,90,0,0
+1608142534923,1461,Movil,200,OK,Grupo de Hilos 1-89,text,true,,177074,135,100,100,https://www.xataka.com/categoria/moviles,229,0,0
+1608142534902,429,Movil,200,OK,Grupo de Hilos 1-62,text,true,,177004,135,100,100,https://www.xataka.com/categoria/moviles,39,0,0
+1608142534920,1083,Movil,200,OK,Grupo de Hilos 1-80,text,true,,177035,135,100,100,https://www.xataka.com/categoria/moviles,67,0,0
+1608142536628,851,Home,200,OK,Grupo de Hilos 1-60,text,true,,227992,350,100,100,https://www.xataka.com/,25,0,0
+1608142536628,25,Home-0,301,Moved Permanently,Grupo de Hilos 1-60,text,true,,1041,114,100,100,http://xataka.com/,25,0,0
+1608142536653,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-60,text,true,,580,118,100,100,http://www.xataka.com/,13,0,0
+1608142536666,813,Home-2,200,OK,Grupo de Hilos 1-60,text,true,,226371,118,100,100,https://www.xataka.com/,379,0,0
+1608142535074,1397,Movil,200,OK,Grupo de Hilos 1-16,text,true,,176997,135,100,100,https://www.xataka.com/categoria/moviles,35,0,0
+1608142536629,854,Home,200,OK,Grupo de Hilos 1-53,text,true,,227945,350,100,100,https://www.xataka.com/,25,0,0
+1608142536629,25,Home-0,301,Moved Permanently,Grupo de Hilos 1-53,text,true,,1041,114,100,100,http://xataka.com/,25,0,0
+1608142536654,11,Home-1,301,Moved Permanently,Grupo de Hilos 1-53,text,true,,580,118,100,100,http://www.xataka.com/,11,0,0
+1608142536665,818,Home-2,200,OK,Grupo de Hilos 1-53,text,true,,226324,118,100,100,https://www.xataka.com/,407,0,0
+1608142535083,1452,Movil,200,OK,Grupo de Hilos 1-90,text,true,,177067,135,100,100,https://www.xataka.com/categoria/moviles,462,0,0
+1608142535088,691,Movil,200,OK,Grupo de Hilos 1-7,text,true,,177063,135,100,100,https://www.xataka.com/categoria/moviles,413,0,0
+1608142535083,1155,Movil,200,OK,Grupo de Hilos 1-22,text,true,,177079,135,100,100,https://www.xataka.com/categoria/moviles,413,0,0
+1608142535065,1079,Movil,200,OK,Grupo de Hilos 1-25,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,42,0,0
+1608142536868,643,Home,200,OK,Grupo de Hilos 1-100,text,true,,228051,350,100,100,https://www.xataka.com/,27,0,0
+1608142536868,27,Home-0,301,Moved Permanently,Grupo de Hilos 1-100,text,true,,1041,114,100,100,http://xataka.com/,27,0,0
+1608142536895,18,Home-1,301,Moved Permanently,Grupo de Hilos 1-100,text,true,,580,118,100,100,http://www.xataka.com/,18,0,0
+1608142536913,598,Home-2,200,OK,Grupo de Hilos 1-100,text,true,,226430,118,100,100,https://www.xataka.com/,260,0,0
+1608142536649,866,Home,200,OK,Grupo de Hilos 1-41,text,true,,228014,350,100,100,https://www.xataka.com/,478,0,0
+1608142536649,478,Home-0,301,Moved Permanently,Grupo de Hilos 1-41,text,true,,1041,114,100,100,http://xataka.com/,478,0,0
+1608142537127,43,Home-1,301,Moved Permanently,Grupo de Hilos 1-41,text,true,,580,118,100,100,http://www.xataka.com/,43,0,0
+1608142537170,345,Home-2,200,OK,Grupo de Hilos 1-41,text,true,,226393,118,100,100,https://www.xataka.com/,38,0,0
+1608142535071,1067,Movil,200,OK,Grupo de Hilos 1-49,text,true,,177045,135,100,100,https://www.xataka.com/categoria/moviles,46,0,0
+1608142535871,1647,Home,200,OK,Grupo de Hilos 1-15,text,true,,227950,350,100,100,https://www.xataka.com/,353,0,0
+1608142535871,353,Home-0,301,Moved Permanently,Grupo de Hilos 1-15,text,true,,1041,114,100,100,http://xataka.com/,353,0,0
+1608142536224,224,Home-1,301,Moved Permanently,Grupo de Hilos 1-15,text,true,,580,118,100,100,http://www.xataka.com/,224,0,0
+1608142536448,1070,Home-2,200,OK,Grupo de Hilos 1-15,text,true,,226329,118,100,100,https://www.xataka.com/,137,0,0
+1608142535094,1139,Movil,200,OK,Grupo de Hilos 1-77,text,true,,176989,135,100,100,https://www.xataka.com/categoria/moviles,71,0,0
+1608142535512,682,Movil,200,OK,Grupo de Hilos 1-47,text,true,,176988,135,100,100,https://www.xataka.com/categoria/moviles,32,0,0
+1608142535513,685,Movil,200,OK,Grupo de Hilos 1-4,text,true,,177091,135,100,100,https://www.xataka.com/categoria/moviles,60,0,0
+1608142535071,1245,Movil,200,OK,Grupo de Hilos 1-44,text,true,,177072,135,100,100,https://www.xataka.com/categoria/moviles,36,0,0
+1608142536629,895,Home,200,OK,Grupo de Hilos 1-85,text,true,,227975,350,100,100,https://www.xataka.com/,26,0,0
+1608142536629,26,Home-0,301,Moved Permanently,Grupo de Hilos 1-85,text,true,,1041,114,100,100,http://xataka.com/,26,0,0
+1608142536655,12,Home-1,301,Moved Permanently,Grupo de Hilos 1-85,text,true,,580,118,100,100,http://www.xataka.com/,12,0,0
+1608142536667,857,Home-2,200,OK,Grupo de Hilos 1-85,text,true,,226354,118,100,100,https://www.xataka.com/,390,0,0
+1608142534921,1308,Movil,200,OK,Grupo de Hilos 1-74,text,true,,176981,135,100,100,https://www.xataka.com/categoria/moviles,229,0,0
+1608142535090,1290,Movil,200,OK,Grupo de Hilos 1-79,text,true,,177084,135,100,100,https://www.xataka.com/categoria/moviles,143,0,0
+1608142535095,1381,Movil,200,OK,Grupo de Hilos 1-57,text,true,,177096,135,100,100,https://www.xataka.com/categoria/moviles,430,0,0
+1608142535513,673,Movil,200,OK,Grupo de Hilos 1-87,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,63,0,0
+1608142535095,1369,Movil,200,OK,Grupo de Hilos 1-2,text,true,,177020,135,100,100,https://www.xataka.com/categoria/moviles,90,0,0
+1608142534911,1111,Movil,200,OK,Grupo de Hilos 1-68,text,true,,177033,135,100,100,https://www.xataka.com/categoria/moviles,126,0,0
+1608142534905,1016,Movil,200,OK,Grupo de Hilos 1-56,text,true,,177033,135,100,100,https://www.xataka.com/categoria/moviles,36,0,0
+1608142535097,1291,Movil,200,OK,Grupo de Hilos 1-59,text,true,,177074,135,100,100,https://www.xataka.com/categoria/moviles,64,0,0
+1608142535512,710,Movil,200,OK,Grupo de Hilos 1-36,text,true,,177045,135,100,100,https://www.xataka.com/categoria/moviles,70,0,0
+1608142535052,1093,Movil,200,OK,Grupo de Hilos 1-48,text,true,,177057,135,100,100,https://www.xataka.com/categoria/moviles,45,0,0
+1608142534805,763,Movil,200,OK,Grupo de Hilos 1-98,text,true,,177063,135,100,100,https://www.xataka.com/categoria/moviles,48,0,0
+1608142535064,1186,Movil,200,OK,Grupo de Hilos 1-14,text,true,,177051,135,100,100,https://www.xataka.com/categoria/moviles,41,0,0
+1608142534902,1168,Movil,200,OK,Grupo de Hilos 1-45,text,true,,177071,135,100,100,https://www.xataka.com/categoria/moviles,34,0,0
+1608142537107,480,Home,200,OK,Grupo de Hilos 1-73,text,true,,227985,350,100,100,https://www.xataka.com/,117,0,0
+1608142537107,117,Home-0,301,Moved Permanently,Grupo de Hilos 1-73,text,true,,1041,114,100,100,http://xataka.com/,117,0,0
+1608142537224,26,Home-1,301,Moved Permanently,Grupo de Hilos 1-73,text,true,,580,118,100,100,http://www.xataka.com/,26,0,0
+1608142537250,337,Home-2,200,OK,Grupo de Hilos 1-73,text,true,,226364,118,100,100,https://www.xataka.com/,35,0,0
+1608142534901,1311,Movil,200,OK,Grupo de Hilos 1-24,text,true,,177026,135,100,100,https://www.xataka.com/categoria/moviles,84,0,0
+1608142535990,563,Movil,200,OK,Grupo de Hilos 1-50,text,true,,177036,135,100,100,https://www.xataka.com/categoria/moviles,37,0,0
+1608142535074,799,Movil,200,OK,Grupo de Hilos 1-97,text,true,,176996,135,100,100,https://www.xataka.com/categoria/moviles,126,0,0
+1608142537192,402,Home,200,OK,Grupo de Hilos 1-29,text,true,,227951,350,100,100,https://www.xataka.com/,35,0,0
+1608142537192,35,Home-0,301,Moved Permanently,Grupo de Hilos 1-29,text,true,,1041,114,100,100,http://xataka.com/,35,0,0
+1608142537227,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-29,text,true,,580,118,100,100,http://www.xataka.com/,14,0,0
+1608142537241,353,Home-2,200,OK,Grupo de Hilos 1-29,text,true,,226330,118,100,100,https://www.xataka.com/,41,0,0
+1608142536868,728,Home,200,OK,Grupo de Hilos 1-78,text,true,,227952,350,100,100,https://www.xataka.com/,44,0,0
+1608142535072,1105,Movil,200,OK,Grupo de Hilos 1-20,text,true,,177035,135,100,100,https://www.xataka.com/categoria/moviles,41,0,0
+1608142535075,1135,Movil,200,OK,Grupo de Hilos 1-54,text,true,,177021,135,100,100,https://www.xataka.com/categoria/moviles,49,0,0
+1608142536404,1197,Home,200,OK,Grupo de Hilos 1-17,text,true,,228015,350,100,100,https://www.xataka.com/,27,0,0
+1608142536404,27,Home-0,301,Moved Permanently,Grupo de Hilos 1-17,text,true,,1041,114,100,100,http://xataka.com/,27,0,0
+1608142536431,44,Home-1,301,Moved Permanently,Grupo de Hilos 1-17,text,true,,580,118,100,100,http://www.xataka.com/,44,0,0
+1608142536475,1126,Home-2,200,OK,Grupo de Hilos 1-17,text,true,,226394,118,100,100,https://www.xataka.com/,549,0,0
+1608142534817,635,Movil,200,OK,Grupo de Hilos 1-84,text,true,,177003,135,100,100,https://www.xataka.com/categoria/moviles,43,0,0
+1608142536868,44,Home-0,301,Moved Permanently,Grupo de Hilos 1-78,text,true,,1041,114,100,100,http://xataka.com/,44,0,0
+1608142536912,297,Home-1,301,Moved Permanently,Grupo de Hilos 1-78,text,true,,580,118,100,100,http://www.xataka.com/,297,0,0
+1608142535091,1071,Movil,200,OK,Grupo de Hilos 1-75,text,true,,177028,135,100,100,https://www.xataka.com/categoria/moviles,74,0,0
+1608142535060,308,Movil,200,OK,Grupo de Hilos 1-18,text,true,,176989,135,100,100,https://www.xataka.com/categoria/moviles,38,0,0
+1608142537209,387,Home-2,200,OK,Grupo de Hilos 1-78,text,true,,226331,118,100,100,https://www.xataka.com/,48,0,0
+1608142536867,757,Home,200,OK,Grupo de Hilos 1-31,text,true,,228043,350,100,100,https://www.xataka.com/,305,0,0
+1608142536867,305,Home-0,301,Moved Permanently,Grupo de Hilos 1-31,text,true,,1041,114,100,100,http://xataka.com/,305,0,0
+1608142537172,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-31,text,true,,580,118,100,100,http://www.xataka.com/,16,0,0
+1608142537188,436,Home-2,200,OK,Grupo de Hilos 1-31,text,true,,226422,118,100,100,https://www.xataka.com/,31,0,0
+1608142535072,1328,Movil,200,OK,Grupo de Hilos 1-69,text,true,,177012,135,100,100,https://www.xataka.com/categoria/moviles,119,0,0
+1608142536091,1540,Home,200,OK,Grupo de Hilos 1-86,text,true,,227937,350,99,99,https://www.xataka.com/,936,0,0
+1608142536091,936,Home-0,301,Moved Permanently,Grupo de Hilos 1-86,text,true,,1041,114,99,99,http://xataka.com/,936,0,0
+1608142537027,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-86,text,true,,580,118,99,99,http://www.xataka.com/,40,0,0
+1608142537067,564,Home-2,200,OK,Grupo de Hilos 1-86,text,true,,226316,118,99,99,https://www.xataka.com/,79,0,0
+1608142535069,1036,Movil,200,OK,Grupo de Hilos 1-88,text,true,,176973,135,100,100,https://www.xataka.com/categoria/moviles,47,0,0
+1608142536903,747,Home,200,OK,Grupo de Hilos 1-64,text,true,,227991,350,99,99,https://www.xataka.com/,225,0,0
+1608142536903,225,Home-0,301,Moved Permanently,Grupo de Hilos 1-64,text,true,,1041,114,99,99,http://xataka.com/,225,0,0
+1608142537128,40,Home-1,301,Moved Permanently,Grupo de Hilos 1-64,text,true,,580,118,99,99,http://www.xataka.com/,40,0,0
+1608142537168,482,Home-2,200,OK,Grupo de Hilos 1-64,text,true,,226370,118,99,99,https://www.xataka.com/,35,0,0
+1608142536435,1218,Home,200,OK,Grupo de Hilos 1-92,text,true,,228000,350,99,99,https://www.xataka.com/,593,0,0
+1608142536435,593,Home-0,301,Moved Permanently,Grupo de Hilos 1-92,text,true,,1041,114,99,99,http://xataka.com/,593,0,0
+1608142537048,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-92,text,true,,580,118,99,99,http://www.xataka.com/,14,0,0
+1608142537062,591,Home-2,200,OK,Grupo de Hilos 1-92,text,true,,226379,118,99,99,https://www.xataka.com/,36,0,0
+1608142536227,389,Movil,200,OK,Grupo de Hilos 1-91,text,true,,177058,135,100,100,https://www.xataka.com/categoria/moviles,110,0,0
+1608142536996,582,Home,200,OK,Grupo de Hilos 1-13,text,true,,227998,350,99,99,https://www.xataka.com/,36,0,0
+1608142536996,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-13,text,true,,1041,114,99,99,http://xataka.com/,36,0,0
+1608142537032,73,Home-1,301,Moved Permanently,Grupo de Hilos 1-13,text,true,,580,118,99,99,http://www.xataka.com/,73,0,0
+1608142537105,473,Home-2,200,OK,Grupo de Hilos 1-13,text,true,,226377,118,99,99,https://www.xataka.com/,65,0,0
+1608142536412,1266,Home,200,OK,Grupo de Hilos 1-99,text,true,,228038,350,99,99,https://www.xataka.com/,160,0,0
+1608142536412,160,Home-0,301,Moved Permanently,Grupo de Hilos 1-99,text,true,,1041,114,99,99,http://xataka.com/,160,0,0
+1608142536572,69,Home-1,301,Moved Permanently,Grupo de Hilos 1-99,text,true,,580,118,99,99,http://www.xataka.com/,69,0,0
+1608142536641,1037,Home-2,200,OK,Grupo de Hilos 1-99,text,true,,226417,118,99,99,https://www.xataka.com/,472,0,0
+1608142537085,613,Home,200,OK,Grupo de Hilos 1-3,text,true,,228013,350,99,99,https://www.xataka.com/,87,0,0
+1608142537085,87,Home-0,301,Moved Permanently,Grupo de Hilos 1-3,text,true,,1041,114,99,99,http://xataka.com/,87,0,0
+1608142537172,28,Home-1,301,Moved Permanently,Grupo de Hilos 1-3,text,true,,580,118,99,99,http://www.xataka.com/,28,0,0
+1608142537200,498,Home-2,200,OK,Grupo de Hilos 1-3,text,true,,226392,118,99,99,https://www.xataka.com/,45,0,0
+1608142536628,1071,Home,200,OK,Grupo de Hilos 1-5,text,true,,227961,350,99,99,https://www.xataka.com/,428,0,0
+1608142536628,428,Home-0,301,Moved Permanently,Grupo de Hilos 1-5,text,true,,1041,114,99,99,http://xataka.com/,428,0,0
+1608142537056,66,Home-1,301,Moved Permanently,Grupo de Hilos 1-5,text,true,,580,118,99,99,http://www.xataka.com/,66,0,0
+1608142537122,577,Home-2,200,OK,Grupo de Hilos 1-5,text,true,,226340,118,99,99,https://www.xataka.com/,67,0,0
+1608142537193,395,Home,200,OK,Grupo de Hilos 1-82,text,true,,228023,350,99,99,https://www.xataka.com/,23,0,0
+1608142537193,23,Home-0,301,Moved Permanently,Grupo de Hilos 1-82,text,true,,1041,114,99,99,http://xataka.com/,23,0,0
+1608142537216,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-82,text,true,,580,118,99,99,http://www.xataka.com/,13,0,0
+1608142537230,358,Home-2,200,OK,Grupo de Hilos 1-82,text,true,,226402,118,99,99,https://www.xataka.com/,34,0,0
+1608142536629,1072,Home,200,OK,Grupo de Hilos 1-38,text,true,,228066,350,99,99,https://www.xataka.com/,24,0,0
+1608142536629,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-38,text,true,,1041,114,99,99,http://xataka.com/,24,0,0
+1608142536653,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-38,text,true,,580,118,99,99,http://www.xataka.com/,13,0,0
+1608142536666,1035,Home-2,200,OK,Grupo de Hilos 1-38,text,true,,226445,118,99,99,https://www.xataka.com/,434,0,0
+1608142536417,1310,Home,200,OK,Grupo de Hilos 1-33,text,true,,227959,350,99,99,https://www.xataka.com/,712,0,0
+1608142536417,712,Home-0,301,Moved Permanently,Grupo de Hilos 1-33,text,true,,1041,114,99,99,http://xataka.com/,712,0,0
+1608142537129,42,Home-1,301,Moved Permanently,Grupo de Hilos 1-33,text,true,,580,118,99,99,http://www.xataka.com/,42,0,0
+1608142537171,556,Home-2,200,OK,Grupo de Hilos 1-33,text,true,,226338,118,99,99,https://www.xataka.com/,46,0,0
+1608142537172,590,Home,200,OK,Grupo de Hilos 1-34,text,true,,227983,350,99,99,https://www.xataka.com/,40,0,0
+1608142537172,40,Home-0,301,Moved Permanently,Grupo de Hilos 1-34,text,true,,1041,114,99,99,http://xataka.com/,40,0,0
+1608142537212,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-34,text,true,,580,118,99,99,http://www.xataka.com/,16,0,0
+1608142537228,534,Home-2,200,OK,Grupo de Hilos 1-34,text,true,,226362,118,99,99,https://www.xataka.com/,44,0,0
+1608142536621,918,Home,200,OK,Grupo de Hilos 1-11,text,true,,227992,350,98,98,https://www.xataka.com/,30,0,0
+1608142536621,30,Home-0,301,Moved Permanently,Grupo de Hilos 1-11,text,true,,1041,114,98,98,http://xataka.com/,30,0,0
+1608142536651,11,Home-1,301,Moved Permanently,Grupo de Hilos 1-11,text,true,,580,118,98,98,http://www.xataka.com/,11,0,0
+1608142536663,876,Home-2,200,OK,Grupo de Hilos 1-11,text,true,,226371,118,98,98,https://www.xataka.com/,434,0,0
+1608142536280,1255,Home,200,OK,Grupo de Hilos 1-8,text,true,,228004,350,98,98,https://www.xataka.com/,24,0,0
+1608142536280,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-8,text,true,,1041,114,98,98,http://xataka.com/,24,0,0
+1608142536304,52,Home-1,301,Moved Permanently,Grupo de Hilos 1-8,text,true,,580,118,98,98,http://www.xataka.com/,52,0,0
+1608142536356,1179,Home-2,200,OK,Grupo de Hilos 1-8,text,true,,226383,118,98,98,https://www.xataka.com/,112,0,0
+1608142536628,927,Home,200,OK,Grupo de Hilos 1-93,text,true,,228030,350,98,98,https://www.xataka.com/,23,0,0
+1608142536628,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-93,text,true,,1041,114,98,98,http://xataka.com/,23,0,0
+1608142536652,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-93,text,true,,580,118,98,98,http://www.xataka.com/,13,0,0
+1608142536665,890,Home-2,200,OK,Grupo de Hilos 1-93,text,true,,226409,118,98,98,https://www.xataka.com/,403,0,0
+1608142537082,765,Home,200,OK,Grupo de Hilos 1-28,text,true,,228000,350,98,98,https://www.xataka.com/,138,0,0
+1608142537082,138,Home-0,301,Moved Permanently,Grupo de Hilos 1-28,text,true,,1041,114,98,98,http://xataka.com/,138,0,0
+1608142537220,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-28,text,true,,580,118,98,98,http://www.xataka.com/,16,0,0
+1608142537237,610,Home-2,200,OK,Grupo de Hilos 1-28,text,true,,226379,118,98,98,https://www.xataka.com/,55,0,0
+1608142537184,668,Home,200,OK,Grupo de Hilos 1-72,text,true,,227968,350,98,98,https://www.xataka.com/,36,0,0
+1608142537184,36,Home-0,301,Moved Permanently,Grupo de Hilos 1-72,text,true,,1041,114,98,98,http://xataka.com/,36,0,0
+1608142537220,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-72,text,true,,580,118,98,98,http://www.xataka.com/,15,0,0
+1608142537235,617,Home-2,200,OK,Grupo de Hilos 1-72,text,true,,226347,118,98,98,https://www.xataka.com/,40,0,0
+1608142537104,758,Home,200,OK,Grupo de Hilos 1-66,text,true,,228031,350,98,98,https://www.xataka.com/,30,0,0
+1608142537104,30,Home-0,301,Moved Permanently,Grupo de Hilos 1-66,text,true,,1041,114,98,98,http://xataka.com/,30,0,0
+1608142537134,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-66,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537148,714,Home-2,200,OK,Grupo de Hilos 1-66,text,true,,226410,118,98,98,https://www.xataka.com/,32,0,0
+1608142537518,348,Home,200,OK,Grupo de Hilos 1-77,text,true,,227966,350,98,98,https://www.xataka.com/,85,0,0
+1608142537518,85,Home-0,301,Moved Permanently,Grupo de Hilos 1-77,text,true,,1041,114,98,98,http://xataka.com/,85,0,0
+1608142537603,17,Home-1,301,Moved Permanently,Grupo de Hilos 1-77,text,true,,580,118,98,98,http://www.xataka.com/,17,0,0
+1608142537620,246,Home-2,200,OK,Grupo de Hilos 1-77,text,true,,226345,118,98,98,https://www.xataka.com/,41,0,0
+1608142537524,343,Home,200,OK,Grupo de Hilos 1-43,text,true,,228013,350,98,98,https://www.xataka.com/,40,0,0
+1608142537524,40,Home-0,301,Moved Permanently,Grupo de Hilos 1-43,text,true,,1041,114,98,98,http://xataka.com/,40,0,0
+1608142537564,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-43,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537578,289,Home-2,200,OK,Grupo de Hilos 1-43,text,true,,226392,118,98,98,https://www.xataka.com/,41,0,0
+1608142537602,267,Home,200,OK,Grupo de Hilos 1-84,text,true,,227982,350,98,98,https://www.xataka.com/,24,0,0
+1608142537602,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-84,text,true,,1041,114,98,98,http://xataka.com/,24,0,0
+1608142537626,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-84,text,true,,580,118,98,98,http://www.xataka.com/,15,0,0
+1608142537641,228,Home-2,200,OK,Grupo de Hilos 1-84,text,true,,226361,118,98,98,https://www.xataka.com/,48,0,0
+1608142537582,288,Home,200,OK,Grupo de Hilos 1-45,text,true,,228038,350,98,98,https://www.xataka.com/,65,0,0
+1608142537582,65,Home-0,301,Moved Permanently,Grupo de Hilos 1-45,text,true,,1041,114,98,98,http://xataka.com/,65,0,0
+1608142537647,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-45,text,true,,580,118,98,98,http://www.xataka.com/,15,0,0
+1608142537662,208,Home-2,200,OK,Grupo de Hilos 1-45,text,true,,226417,118,98,98,https://www.xataka.com/,71,0,0
+1608142537566,316,Home,200,OK,Grupo de Hilos 1-59,text,true,,227976,350,98,98,https://www.xataka.com/,53,0,0
+1608142537566,53,Home-0,301,Moved Permanently,Grupo de Hilos 1-59,text,true,,1041,114,98,98,http://xataka.com/,53,0,0
+1608142537619,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-59,text,true,,580,118,98,98,http://www.xataka.com/,16,0,0
+1608142537635,247,Home-2,200,OK,Grupo de Hilos 1-59,text,true,,226355,118,98,98,https://www.xataka.com/,35,0,0
+1608142537521,362,Home,200,OK,Grupo de Hilos 1-21,text,true,,227992,350,98,98,https://www.xataka.com/,48,0,0
+1608142537521,48,Home-0,301,Moved Permanently,Grupo de Hilos 1-21,text,true,,1041,114,98,98,http://xataka.com/,48,0,0
+1608142537569,39,Home-1,301,Moved Permanently,Grupo de Hilos 1-21,text,true,,580,118,98,98,http://www.xataka.com/,39,0,0
+1608142537608,275,Home-2,200,OK,Grupo de Hilos 1-21,text,true,,226371,118,98,98,https://www.xataka.com/,59,0,0
+1608142537548,358,Home,200,OK,Grupo de Hilos 1-2,text,true,,227954,350,98,98,https://www.xataka.com/,98,0,0
+1608142537548,98,Home-0,301,Moved Permanently,Grupo de Hilos 1-2,text,true,,1041,114,98,98,http://xataka.com/,98,0,0
+1608142537646,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-2,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537660,246,Home-2,200,OK,Grupo de Hilos 1-2,text,true,,226333,118,98,98,https://www.xataka.com/,54,0,0
+1608142537088,821,Home,200,OK,Grupo de Hilos 1-70,text,true,,227936,350,98,98,https://www.xataka.com/,369,0,0
+1608142537088,369,Home-0,301,Moved Permanently,Grupo de Hilos 1-70,text,true,,1041,114,98,98,http://xataka.com/,369,0,0
+1608142537457,107,Home-1,301,Moved Permanently,Grupo de Hilos 1-70,text,true,,580,118,98,98,http://www.xataka.com/,107,0,0
+1608142537564,345,Home-2,200,OK,Grupo de Hilos 1-70,text,true,,226315,118,98,98,https://www.xataka.com/,44,0,0
+1608142537521,388,Home,200,OK,Grupo de Hilos 1-4,text,true,,228016,350,98,98,https://www.xataka.com/,29,0,0
+1608142537521,29,Home-0,301,Moved Permanently,Grupo de Hilos 1-4,text,true,,1041,114,98,98,http://xataka.com/,29,0,0
+1608142537550,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-4,text,true,,580,118,98,98,http://www.xataka.com/,16,0,0
+1608142537567,342,Home-2,200,OK,Grupo de Hilos 1-4,text,true,,226395,118,98,98,https://www.xataka.com/,34,0,0
+1608142537464,447,Home,200,OK,Grupo de Hilos 1-80,text,true,,228070,350,98,98,https://www.xataka.com/,67,0,0
+1608142537464,67,Home-0,301,Moved Permanently,Grupo de Hilos 1-80,text,true,,1041,114,98,98,http://xataka.com/,67,0,0
+1608142537531,78,Home-1,301,Moved Permanently,Grupo de Hilos 1-80,text,true,,580,118,98,98,http://www.xataka.com/,78,0,0
+1608142537609,302,Home-2,200,OK,Grupo de Hilos 1-80,text,true,,226449,118,98,98,https://www.xataka.com/,39,0,0
+1608142537261,652,Home,200,OK,Grupo de Hilos 1-63,text,true,,227985,350,98,98,https://www.xataka.com/,107,0,0
+1608142537261,107,Home-0,301,Moved Permanently,Grupo de Hilos 1-63,text,true,,1041,114,98,98,http://xataka.com/,107,0,0
+1608142537529,19,Home-1,301,Moved Permanently,Grupo de Hilos 1-63,text,true,,580,118,98,98,http://www.xataka.com/,19,0,0
+1608142537549,364,Home-2,200,OK,Grupo de Hilos 1-63,text,true,,226364,118,98,98,https://www.xataka.com/,55,0,0
+1608142537066,851,Home,200,OK,Grupo de Hilos 1-46,text,true,,227967,350,98,98,https://www.xataka.com/,238,0,0
+1608142537066,238,Home-0,301,Moved Permanently,Grupo de Hilos 1-46,text,true,,1041,114,98,98,http://xataka.com/,238,0,0
+1608142537304,52,Home-1,301,Moved Permanently,Grupo de Hilos 1-46,text,true,,580,118,98,98,http://www.xataka.com/,52,0,0
+1608142537356,561,Home-2,200,OK,Grupo de Hilos 1-46,text,true,,226346,118,98,98,https://www.xataka.com/,113,0,0
+1608142537097,826,Home,200,OK,Grupo de Hilos 1-67,text,true,,227968,350,98,98,https://www.xataka.com/,360,0,0
+1608142537097,360,Home-0,301,Moved Permanently,Grupo de Hilos 1-67,text,true,,1041,114,98,98,http://xataka.com/,360,0,0
+1608142537457,212,Home-1,301,Moved Permanently,Grupo de Hilos 1-67,text,true,,580,118,98,98,http://www.xataka.com/,212,0,0
+1608142537669,254,Home-2,200,OK,Grupo de Hilos 1-67,text,true,,226347,118,98,98,https://www.xataka.com/,63,0,0
+1608142537603,323,Home,200,OK,Grupo de Hilos 1-18,text,true,,228031,350,98,98,https://www.xataka.com/,24,0,0
+1608142537603,24,Home-0,301,Moved Permanently,Grupo de Hilos 1-18,text,true,,1041,114,98,98,http://xataka.com/,24,0,0
+1608142537627,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-18,text,true,,580,118,98,98,http://www.xataka.com/,13,0,0
+1608142537640,286,Home-2,200,OK,Grupo de Hilos 1-18,text,true,,226410,118,98,98,https://www.xataka.com/,42,0,0
+1608142535091,1314,Movil,200,OK,Grupo de Hilos 1-37,text,true,,177033,135,100,100,https://www.xataka.com/categoria/moviles,102,0,0
+1608142537104,828,Home,200,OK,Grupo de Hilos 1-39,text,true,,228030,350,98,98,https://www.xataka.com/,72,0,0
+1608142537104,72,Home-0,301,Moved Permanently,Grupo de Hilos 1-39,text,true,,1041,114,98,98,http://xataka.com/,72,0,0
+1608142537176,18,Home-1,301,Moved Permanently,Grupo de Hilos 1-39,text,true,,580,118,98,98,http://www.xataka.com/,18,0,0
+1608142537194,738,Home-2,200,OK,Grupo de Hilos 1-39,text,true,,226409,118,98,98,https://www.xataka.com/,42,0,0
+1608142537040,893,Home,200,OK,Grupo de Hilos 1-27,text,true,,228020,350,98,98,https://www.xataka.com/,38,0,0
+1608142537040,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-27,text,true,,1041,114,98,98,http://xataka.com/,38,0,0
+1608142537079,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-27,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537093,840,Home-2,200,OK,Grupo de Hilos 1-27,text,true,,226399,118,98,98,https://www.xataka.com/,128,0,0
+1608142537497,442,Home,200,OK,Grupo de Hilos 1-22,text,true,,228007,350,98,98,https://www.xataka.com/,93,0,0
+1608142537497,93,Home-0,301,Moved Permanently,Grupo de Hilos 1-22,text,true,,1041,114,98,98,http://xataka.com/,93,0,0
+1608142537591,88,Home-1,301,Moved Permanently,Grupo de Hilos 1-22,text,true,,580,118,98,98,http://www.xataka.com/,88,0,0
+1608142537679,260,Home-2,200,OK,Grupo de Hilos 1-22,text,true,,226386,118,98,98,https://www.xataka.com/,51,0,0
+1608142537542,398,Home,200,OK,Grupo de Hilos 1-57,text,true,,228002,350,98,98,https://www.xataka.com/,107,0,0
+1608142537542,107,Home-0,301,Moved Permanently,Grupo de Hilos 1-57,text,true,,1041,114,98,98,http://xataka.com/,107,0,0
+1608142537649,20,Home-1,301,Moved Permanently,Grupo de Hilos 1-57,text,true,,580,118,98,98,http://www.xataka.com/,20,0,0
+1608142537669,271,Home-2,200,OK,Grupo de Hilos 1-57,text,true,,226381,118,98,98,https://www.xataka.com/,65,0,0
+1608142537044,900,Home,200,OK,Grupo de Hilos 1-58,text,true,,228006,350,98,98,https://www.xataka.com/,84,0,0
+1608142537044,84,Home-0,301,Moved Permanently,Grupo de Hilos 1-58,text,true,,1041,114,98,98,http://xataka.com/,84,0,0
+1608142537128,43,Home-1,301,Moved Permanently,Grupo de Hilos 1-58,text,true,,580,118,98,98,http://www.xataka.com/,43,0,0
+1608142537171,773,Home-2,200,OK,Grupo de Hilos 1-58,text,true,,226385,118,98,98,https://www.xataka.com/,48,0,0
+1608142537489,456,Home,200,OK,Grupo de Hilos 1-7,text,true,,228007,350,98,98,https://www.xataka.com/,101,0,0
+1608142537489,101,Home-0,301,Moved Permanently,Grupo de Hilos 1-7,text,true,,1041,114,98,98,http://xataka.com/,101,0,0
+1608142537590,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-7,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537604,341,Home-2,200,OK,Grupo de Hilos 1-7,text,true,,226386,118,98,98,https://www.xataka.com/,39,0,0
+1608142537563,384,Home,200,OK,Grupo de Hilos 1-56,text,true,,228035,350,98,98,https://www.xataka.com/,89,0,0
+1608142537563,89,Home-0,301,Moved Permanently,Grupo de Hilos 1-56,text,true,,1041,114,98,98,http://xataka.com/,89,0,0
+1608142537652,50,Home-1,301,Moved Permanently,Grupo de Hilos 1-56,text,true,,580,118,98,98,http://www.xataka.com/,50,0,0
+1608142537702,245,Home-2,200,OK,Grupo de Hilos 1-56,text,true,,226414,118,98,98,https://www.xataka.com/,168,0,0
+1608142537539,410,Home,200,OK,Grupo de Hilos 1-79,text,true,,227913,350,98,98,https://www.xataka.com/,93,0,0
+1608142537539,93,Home-0,301,Moved Permanently,Grupo de Hilos 1-79,text,true,,1041,114,98,98,http://xataka.com/,93,0,0
+1608142537632,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-79,text,true,,580,118,98,98,http://www.xataka.com/,14,0,0
+1608142537646,303,Home-2,200,OK,Grupo de Hilos 1-79,text,true,,226292,118,98,98,https://www.xataka.com/,47,0,0
+1608142537081,870,Home,200,OK,Grupo de Hilos 1-35,text,true,,227959,350,98,98,https://www.xataka.com/,227,0,0
+1608142537081,227,Home-0,301,Moved Permanently,Grupo de Hilos 1-35,text,true,,1041,114,98,98,http://xataka.com/,227,0,0
+1608142537308,32,Home-1,301,Moved Permanently,Grupo de Hilos 1-35,text,true,,580,118,98,98,http://www.xataka.com/,32,0,0
+1608142537340,611,Home-2,200,OK,Grupo de Hilos 1-35,text,true,,226338,118,98,98,https://www.xataka.com/,608,0,0
+1608142537534,418,Home,200,OK,Grupo de Hilos 1-74,text,true,,228113,350,98,98,https://www.xataka.com/,61,0,0
+1608142537534,61,Home-0,301,Moved Permanently,Grupo de Hilos 1-74,text,true,,1041,114,98,98,http://xataka.com/,61,0,0
+1608142537595,22,Home-1,301,Moved Permanently,Grupo de Hilos 1-74,text,true,,580,118,98,98,http://www.xataka.com/,22,0,0
+1608142537617,335,Home-2,200,OK,Grupo de Hilos 1-74,text,true,,226492,118,98,98,https://www.xataka.com/,58,0,0
+1608142537483,381,Home,200,OK,Grupo de Hilos 1-16,text,true,,228029,350,98,98,https://www.xataka.com/,141,0,0
+1608142537483,141,Home-0,301,Moved Permanently,Grupo de Hilos 1-16,text,true,,1041,114,98,98,http://xataka.com/,141,0,0
+1608142537625,18,Home-1,301,Moved Permanently,Grupo de Hilos 1-16,text,true,,580,118,98,98,http://www.xataka.com/,18,0,0
+1608142537643,221,Home-2,200,OK,Grupo de Hilos 1-16,text,true,,226408,118,98,98,https://www.xataka.com/,61,0,0
+1608142536413,706,Movil,200,OK,Grupo de Hilos 1-71,text,true,,177051,135,100,100,https://www.xataka.com/categoria/moviles,203,0,0
+1608142536413,908,Movil,200,OK,Grupo de Hilos 1-32,text,true,,177044,135,100,100,https://www.xataka.com/categoria/moviles,53,0,0
+1608142536853,361,Movil,200,OK,Grupo de Hilos 1-6,text,true,,177045,135,100,100,https://www.xataka.com/categoria/moviles,40,0,0
+1608142537580,507,Home,200,OK,Grupo de Hilos 1-14,text,true,,227991,350,96,96,https://www.xataka.com/,61,0,0
+1608142537580,61,Home-0,301,Moved Permanently,Grupo de Hilos 1-14,text,true,,1041,114,96,96,http://xataka.com/,61,0,0
+1608142537641,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-14,text,true,,580,118,96,96,http://www.xataka.com/,16,0,0
+1608142537658,429,Home-2,200,OK,Grupo de Hilos 1-14,text,true,,226370,118,96,96,https://www.xataka.com/,63,0,0
+1608142537381,718,Home,200,OK,Grupo de Hilos 1-81,text,true,,227975,350,96,96,https://www.xataka.com/,168,0,0
+1608142537381,168,Home-0,301,Moved Permanently,Grupo de Hilos 1-81,text,true,,1041,114,96,96,http://xataka.com/,168,0,0
+1608142537549,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-81,text,true,,580,118,96,96,http://www.xataka.com/,14,0,0
+1608142537563,536,Home-2,200,OK,Grupo de Hilos 1-81,text,true,,226354,118,96,96,https://www.xataka.com/,52,0,0
+1608142537449,668,Home,200,OK,Grupo de Hilos 1-62,text,true,,227975,350,96,96,https://www.xataka.com/,176,0,0
+1608142537449,176,Home-0,301,Moved Permanently,Grupo de Hilos 1-62,text,true,,1041,114,96,96,http://xataka.com/,176,0,0
+1608142537625,17,Home-1,301,Moved Permanently,Grupo de Hilos 1-62,text,true,,580,118,96,96,http://www.xataka.com/,17,0,0
+1608142537642,475,Home-2,200,OK,Grupo de Hilos 1-62,text,true,,226354,118,96,96,https://www.xataka.com/,43,0,0
+1608142537667,452,Home,200,OK,Grupo de Hilos 1-98,text,true,,228032,350,96,96,https://www.xataka.com/,25,0,0
+1608142537667,25,Home-0,301,Moved Permanently,Grupo de Hilos 1-98,text,true,,1041,114,96,96,http://xataka.com/,25,0,0
+1608142537692,18,Home-1,301,Moved Permanently,Grupo de Hilos 1-98,text,true,,580,118,96,96,http://www.xataka.com/,18,0,0
+1608142537710,409,Home-2,200,OK,Grupo de Hilos 1-98,text,true,,226411,118,96,96,https://www.xataka.com/,40,0,0
+1608142537521,605,Home,200,OK,Grupo de Hilos 1-44,text,true,,227936,350,96,96,https://www.xataka.com/,28,0,0
+1608142537521,28,Home-0,301,Moved Permanently,Grupo de Hilos 1-44,text,true,,1041,114,96,96,http://xataka.com/,28,0,0
+1608142537549,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-44,text,true,,580,118,96,96,http://www.xataka.com/,14,0,0
+1608142537563,563,Home-2,200,OK,Grupo de Hilos 1-44,text,true,,226315,118,96,96,https://www.xataka.com/,108,0,0
+1608142537589,538,Home,200,OK,Grupo de Hilos 1-24,text,true,,227992,350,96,96,https://www.xataka.com/,101,0,0
+1608142537589,101,Home-0,301,Moved Permanently,Grupo de Hilos 1-24,text,true,,1041,114,96,96,http://xataka.com/,101,0,0
+1608142537690,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-24,text,true,,580,118,96,96,http://www.xataka.com/,14,0,0
+1608142537704,423,Home-2,200,OK,Grupo de Hilos 1-24,text,true,,226371,118,96,96,https://www.xataka.com/,48,0,0
+1608142537505,634,Home,200,OK,Grupo de Hilos 1-25,text,true,,227992,350,96,96,https://www.xataka.com/,85,0,0
+1608142537505,85,Home-0,301,Moved Permanently,Grupo de Hilos 1-25,text,true,,1041,114,96,96,http://xataka.com/,85,0,0
+1608142537666,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-25,text,true,,580,118,96,96,http://www.xataka.com/,14,0,0
+1608142537680,459,Home-2,200,OK,Grupo de Hilos 1-25,text,true,,226371,118,96,96,https://www.xataka.com/,56,0,0
+1608142537566,617,Home,200,OK,Grupo de Hilos 1-36,text,true,,228047,350,95,95,https://www.xataka.com/,82,0,0
+1608142537566,82,Home-0,301,Moved Permanently,Grupo de Hilos 1-36,text,true,,1041,114,95,95,http://xataka.com/,82,0,0
+1608142537648,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-36,text,true,,580,118,95,95,http://www.xataka.com/,16,0,0
+1608142537664,519,Home-2,200,OK,Grupo de Hilos 1-36,text,true,,226426,118,95,95,https://www.xataka.com/,59,0,0
+1608142536388,711,Movil,200,OK,Grupo de Hilos 1-30,text,true,,177063,135,100,100,https://www.xataka.com/categoria/moviles,244,0,0
+1608142537060,1211,Home,200,OK,Grupo de Hilos 1-40,text,true,,227976,350,94,94,https://www.xataka.com/,70,0,0
+1608142537060,70,Home-0,301,Moved Permanently,Grupo de Hilos 1-40,text,true,,1041,114,94,94,http://xataka.com/,70,0,0
+1608142537130,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-40,text,true,,580,118,94,94,http://www.xataka.com/,14,0,0
+1608142537144,1127,Home-2,200,OK,Grupo de Hilos 1-40,text,true,,226355,118,94,94,https://www.xataka.com/,38,0,0
+1608142537929,355,Home,200,OK,Grupo de Hilos 1-37,text,true,,228015,350,94,94,https://www.xataka.com/,89,0,0
+1608142537929,89,Home-0,301,Moved Permanently,Grupo de Hilos 1-37,text,true,,1041,114,94,94,http://xataka.com/,89,0,0
+1608142538018,122,Home-1,301,Moved Permanently,Grupo de Hilos 1-37,text,true,,580,118,94,94,http://www.xataka.com/,122,0,0
+1608142538140,144,Home-2,200,OK,Grupo de Hilos 1-37,text,true,,226394,118,94,94,https://www.xataka.com/,136,0,0
+1608142537446,842,Home,200,OK,Grupo de Hilos 1-89,text,true,,227967,350,94,94,https://www.xataka.com/,206,0,0
+1608142537446,206,Home-0,301,Moved Permanently,Grupo de Hilos 1-89,text,true,,1041,114,94,94,http://xataka.com/,206,0,0
+1608142537652,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-89,text,true,,580,118,94,94,http://www.xataka.com/,16,0,0
+1608142537668,620,Home-2,200,OK,Grupo de Hilos 1-89,text,true,,226346,118,94,94,https://www.xataka.com/,59,0,0
+1608142537094,549,Movil,200,OK,Grupo de Hilos 1-12,text,true,,177013,135,99,99,https://www.xataka.com/categoria/moviles,255,0,0
+1608142536633,532,Movil,200,OK,Grupo de Hilos 1-26,text,true,,176996,135,100,100,https://www.xataka.com/categoria/moviles,35,0,0
+1608142537524,327,Movil,200,OK,Grupo de Hilos 1-85,text,true,,177003,135,98,98,https://www.xataka.com/categoria/moviles,230,0,0
+1608142536863,660,Movil,200,OK,Grupo de Hilos 1-19,text,true,,177005,135,100,100,https://www.xataka.com/categoria/moviles,306,0,0
+1608142537700,175,Movil,200,OK,Grupo de Hilos 1-60,text,true,,177011,135,98,98,https://www.xataka.com/categoria/moviles,65,0,0
+1608142537196,304,Movil,200,OK,Grupo de Hilos 1-52,text,true,,177019,135,100,100,https://www.xataka.com/categoria/moviles,36,0,0
+1608142537155,417,Movil,200,OK,Grupo de Hilos 1-95,text,true,,176997,135,100,100,https://www.xataka.com/categoria/moviles,98,0,0
+1608142536674,653,Movil,200,OK,Grupo de Hilos 1-96,text,true,,177029,135,100,100,https://www.xataka.com/categoria/moviles,367,0,0
+1608142537247,598,Movil,200,OK,Grupo de Hilos 1-9,text,true,,177004,135,98,98,https://www.xataka.com/categoria/moviles,225,0,0
+1608142537700,391,Movil,200,OK,Grupo de Hilos 1-82,text,true,,177100,135,96,96,https://www.xataka.com/categoria/moviles,64,0,0
+1608142537666,222,Movil,200,OK,Grupo de Hilos 1-13,text,true,,177027,135,98,98,https://www.xataka.com/categoria/moviles,46,0,0
+1608142537098,842,Movil,200,OK,Grupo de Hilos 1-83,text,true,,177056,135,98,98,https://www.xataka.com/categoria/moviles,182,0,0
+1608142537542,954,Home,200,OK,Grupo de Hilos 1-87,text,true,,228140,350,83,83,https://www.xataka.com/,87,0,0
+1608142537542,87,Home-0,301,Moved Permanently,Grupo de Hilos 1-87,text,true,,1041,114,83,83,http://xataka.com/,87,0,0
+1608142537629,16,Home-1,301,Moved Permanently,Grupo de Hilos 1-87,text,true,,580,118,83,83,http://www.xataka.com/,16,0,0
+1608142537645,851,Home-2,200,OK,Grupo de Hilos 1-87,text,true,,226519,118,83,83,https://www.xataka.com/,75,0,0
+1608142537521,984,Home,200,OK,Grupo de Hilos 1-47,text,true,,228034,350,83,83,https://www.xataka.com/,29,0,0
+1608142537521,29,Home-0,301,Moved Permanently,Grupo de Hilos 1-47,text,true,,1041,114,83,83,http://xataka.com/,29,0,0
+1608142537550,71,Home-1,301,Moved Permanently,Grupo de Hilos 1-47,text,true,,580,118,83,83,http://www.xataka.com/,71,0,0
+1608142537621,884,Home-2,200,OK,Grupo de Hilos 1-47,text,true,,226413,118,83,83,https://www.xataka.com/,52,0,0
+1608142537665,845,Home,200,OK,Grupo de Hilos 1-97,text,true,,228029,350,83,83,https://www.xataka.com/,28,0,0
+1608142537665,28,Home-0,301,Moved Permanently,Grupo de Hilos 1-97,text,true,,1041,114,83,83,http://xataka.com/,28,0,0
+1608142537693,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-97,text,true,,580,118,83,83,http://www.xataka.com/,15,0,0
+1608142537708,802,Home-2,200,OK,Grupo de Hilos 1-97,text,true,,226408,118,83,83,https://www.xataka.com/,402,0,0
+1608142537287,601,Movil,200,OK,Grupo de Hilos 1-51,text,true,,176989,135,98,98,https://www.xataka.com/categoria/moviles,237,0,0
+1608142537047,405,Movil,200,OK,Grupo de Hilos 1-1,text,true,,177028,135,100,100,https://www.xataka.com/categoria/moviles,76,0,0
+1608142537233,401,Movil,200,OK,Grupo de Hilos 1-61,text,true,,177028,135,99,99,https://www.xataka.com/categoria/moviles,123,0,0
+1608142537601,964,Home,200,OK,Grupo de Hilos 1-54,text,true,,227962,350,81,81,https://www.xataka.com/,39,0,0
+1608142537601,39,Home-0,301,Moved Permanently,Grupo de Hilos 1-54,text,true,,1041,114,81,81,http://xataka.com/,39,0,0
+1608142537640,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-54,text,true,,580,118,81,81,http://www.xataka.com/,14,0,0
+1608142537654,911,Home-2,200,OK,Grupo de Hilos 1-54,text,true,,226341,118,81,81,https://www.xataka.com/,89,0,0
+1608142537112,1493,Home,200,OK,Grupo de Hilos 1-94,text,true,,228007,350,81,81,https://www.xataka.com/,427,0,0
+1608142537112,427,Home-0,301,Moved Permanently,Grupo de Hilos 1-94,text,true,,1041,114,81,81,http://xataka.com/,427,0,0
+1608142537539,64,Home-1,301,Moved Permanently,Grupo de Hilos 1-94,text,true,,580,118,81,81,http://www.xataka.com/,64,0,0
+1608142537603,1002,Home-2,200,OK,Grupo de Hilos 1-94,text,true,,226386,118,81,81,https://www.xataka.com/,38,0,0
+1608142536858,621,Movil,200,OK,Grupo de Hilos 1-65,text,true,,176987,135,100,100,https://www.xataka.com/categoria/moviles,327,0,0
+1608142537573,1095,Home,200,OK,Grupo de Hilos 1-48,text,true,,228032,350,79,79,https://www.xataka.com/,66,0,0
+1608142537573,66,Home-0,301,Moved Permanently,Grupo de Hilos 1-48,text,true,,1041,114,79,79,http://xataka.com/,66,0,0
+1608142537640,11,Home-1,301,Moved Permanently,Grupo de Hilos 1-48,text,true,,580,118,79,79,http://www.xataka.com/,11,0,0
+1608142537651,1017,Home-2,200,OK,Grupo de Hilos 1-48,text,true,,226411,118,79,79,https://www.xataka.com/,38,0,0
+1608142537485,1191,Home,200,OK,Grupo de Hilos 1-90,text,true,,227954,350,79,79,https://www.xataka.com/,118,0,0
+1608142537485,118,Home-0,301,Moved Permanently,Grupo de Hilos 1-90,text,true,,1041,114,79,79,http://xataka.com/,118,0,0
+1608142537604,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-90,text,true,,580,118,79,79,http://www.xataka.com/,14,0,0
+1608142537618,1058,Home-2,200,OK,Grupo de Hilos 1-90,text,true,,226333,118,79,79,https://www.xataka.com/,59,0,0
+1608142537602,1076,Home,200,OK,Grupo de Hilos 1-75,text,true,,228046,350,78,78,https://www.xataka.com/,25,0,0
+1608142537602,25,Home-0,301,Moved Permanently,Grupo de Hilos 1-75,text,true,,1041,114,78,78,http://xataka.com/,25,0,0
+1608142537627,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-75,text,true,,580,118,78,78,http://www.xataka.com/,13,0,0
+1608142537640,1038,Home-2,200,OK,Grupo de Hilos 1-75,text,true,,226425,118,78,78,https://www.xataka.com/,44,0,0
+1608142537558,1121,Home,200,OK,Grupo de Hilos 1-68,text,true,,227943,350,78,78,https://www.xataka.com/,59,0,0
+1608142537558,59,Home-0,301,Moved Permanently,Grupo de Hilos 1-68,text,true,,1041,114,78,78,http://xataka.com/,59,0,0
+1608142537618,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-68,text,true,,580,118,78,78,http://www.xataka.com/,13,0,0
+1608142537631,1048,Home-2,200,OK,Grupo de Hilos 1-68,text,true,,226322,118,78,78,https://www.xataka.com/,55,0,0
+1608142537517,1168,Home,200,OK,Grupo de Hilos 1-49,text,true,,227968,350,78,78,https://www.xataka.com/,75,0,0
+1608142537517,75,Home-0,301,Moved Permanently,Grupo de Hilos 1-49,text,true,,1041,114,78,78,http://xataka.com/,75,0,0
+1608142537593,15,Home-1,301,Moved Permanently,Grupo de Hilos 1-49,text,true,,580,118,78,78,http://www.xataka.com/,15,0,0
+1608142537608,1077,Home-2,200,OK,Grupo de Hilos 1-49,text,true,,226347,118,78,78,https://www.xataka.com/,48,0,0
+1608142537456,1230,Home,200,OK,Grupo de Hilos 1-76,text,true,,227984,350,78,78,https://www.xataka.com/,94,0,0
+1608142537456,94,Home-0,301,Moved Permanently,Grupo de Hilos 1-76,text,true,,1041,114,78,78,http://xataka.com/,94,0,0
+1608142537550,59,Home-1,301,Moved Permanently,Grupo de Hilos 1-76,text,true,,580,118,78,78,http://www.xataka.com/,59,0,0
+1608142537609,1077,Home-2,200,OK,Grupo de Hilos 1-76,text,true,,226363,118,78,78,https://www.xataka.com/,59,0,0
+1608142537596,1091,Home,200,OK,Grupo de Hilos 1-20,text,true,,228005,350,78,78,https://www.xataka.com/,30,0,0
+1608142537596,30,Home-0,301,Moved Permanently,Grupo de Hilos 1-20,text,true,,1041,114,78,78,http://xataka.com/,30,0,0
+1608142537627,12,Home-1,301,Moved Permanently,Grupo de Hilos 1-20,text,true,,580,118,78,78,http://www.xataka.com/,12,0,0
+1608142537640,1047,Home-2,200,OK,Grupo de Hilos 1-20,text,true,,226384,118,78,78,https://www.xataka.com/,36,0,0
+1608142537029,1660,Home,200,OK,Grupo de Hilos 1-10,text,true,,228030,350,78,78,https://www.xataka.com/,597,0,0
+1608142537029,597,Home-0,301,Moved Permanently,Grupo de Hilos 1-10,text,true,,1041,114,78,78,http://xataka.com/,597,0,0
+1608142537626,13,Home-1,301,Moved Permanently,Grupo de Hilos 1-10,text,true,,580,118,78,78,http://www.xataka.com/,13,0,0
+1608142537639,1050,Home-2,200,OK,Grupo de Hilos 1-10,text,true,,226409,118,78,78,https://www.xataka.com/,36,0,0
+1608142536630,689,Movil,200,OK,Grupo de Hilos 1-55,text,true,,177036,135,100,100,https://www.xataka.com/categoria/moviles,39,0,0
+1608142537952,163,Movil,200,OK,Grupo de Hilos 1-74,text,true,,176980,135,96,96,https://www.xataka.com/categoria/moviles,160,0,0
+1608142537321,794,Movil,200,OK,Grupo de Hilos 1-23,text,true,,177021,135,96,96,https://www.xataka.com/categoria/moviles,172,0,0
+1608142537626,1239,Home,200,OK,Grupo de Hilos 1-69,text,true,,227993,350,75,75,https://www.xataka.com/,38,0,0
+1608142537626,38,Home-0,301,Moved Permanently,Grupo de Hilos 1-69,text,true,,1041,114,75,75,http://xataka.com/,38,0,0
+1608142537665,14,Home-1,301,Moved Permanently,Grupo de Hilos 1-69,text,true,,580,118,75,75,http://www.xataka.com/,14,0,0
+1608142537698,1167,Home-2,200,OK,Grupo de Hilos 1-69,text,true,,226372,118,75,75,https://www.xataka.com/,71,0,0
+1608142537913,170,Movil,200,OK,Grupo de Hilos 1-63,text,true,,176957,135,96,96,https://www.xataka.com/categoria/moviles,139,0,0
+1608142537941,198,Movil,200,OK,Grupo de Hilos 1-57,text,true,,177021,135,96,96,https://www.xataka.com/categoria/moviles,76,0,0
+1608142537698,233,Movil,200,OK,Grupo de Hilos 1-3,text,true,,177020,135,98,98,https://www.xataka.com/categoria/moviles,230,0,0
+1608142537511,616,Movil,200,OK,Grupo de Hilos 1-100,text,true,,177071,135,96,96,https://www.xataka.com/categoria/moviles,613,0,0
+1608142537515,571,Movil,200,OK,Grupo de Hilos 1-41,text,true,,176972,135,96,96,https://www.xataka.com/categoria/moviles,95,0,0
+1608142538184,251,Movil,200,OK,Grupo de Hilos 1-36,text,true,,177060,135,86,86,https://www.xataka.com/categoria/moviles,248,0,0
+1608142537594,291,Movil,200,OK,Grupo de Hilos 1-29,text,true,,177048,135,98,98,https://www.xataka.com/categoria/moviles,126,0,0
+1608142537632,402,Movil,200,OK,Grupo de Hilos 1-86,text,true,,177028,135,98,98,https://www.xataka.com/categoria/moviles,399,0,0
+1608142537651,302,Movil,200,OK,Grupo de Hilos 1-64,text,true,,177029,135,98,98,https://www.xataka.com/categoria/moviles,188,0,0
+1608142537952,179,Movil,200,OK,Grupo de Hilos 1-35,text,true,,177026,135,96,96,https://www.xataka.com/categoria/moviles,66,0,0
+1608142537848,258,Movil,200,OK,Grupo de Hilos 1-28,text,true,,176972,135,96,96,https://www.xataka.com/categoria/moviles,181,0,0
+1608142537780,734,Movil,200,OK,Grupo de Hilos 1-11,text,true,,177019,135,83,83,https://www.xataka.com/categoria/moviles,321,0,0
+1608142537603,672,Movil,200,OK,Grupo de Hilos 1-78,text,true,,176957,135,94,94,https://www.xataka.com/categoria/moviles,68,0,0
+1608142537625,454,Movil,200,OK,Grupo de Hilos 1-31,text,true,,177035,135,96,96,https://www.xataka.com/categoria/moviles,451,0,0
+1608142537939,183,Movil,200,OK,Grupo de Hilos 1-22,text,true,,176980,135,96,96,https://www.xataka.com/categoria/moviles,78,0,0
+1608142537633,1528,Home,200,OK,Grupo de Hilos 1-88,text,true,,227992,350,66,66,https://www.xataka.com/,98,0,0
+1608142537633,98,Home-0,301,Moved Permanently,Grupo de Hilos 1-88,text,true,,1041,114,66,66,http://xataka.com/,98,0,0
+1608142537731,540,Home-1,301,Moved Permanently,Grupo de Hilos 1-88,text,true,,580,118,66,66,http://www.xataka.com/,540,0,0
+1608142538272,889,Home-2,200,OK,Grupo de Hilos 1-88,text,true,,226371,118,66,66,https://www.xataka.com/,38,0,0
+1608142537852,251,Movil,200,OK,Grupo de Hilos 1-72,text,true,,176973,135,96,96,https://www.xataka.com/categoria/moviles,248,0,0
+1608142537518,531,Movil,200,OK,Grupo de Hilos 1-15,text,true,,177027,135,98,98,https://www.xataka.com/categoria/moviles,38,0,0
+1608142537654,283,Movil,200,OK,Grupo de Hilos 1-92,text,true,,177028,135,98,98,https://www.xataka.com/categoria/moviles,201,0,0
+1608142537923,168,Movil,200,OK,Grupo de Hilos 1-67,text,true,,176980,135,96,96,https://www.xataka.com/categoria/moviles,165,0,0
+1608142537678,393,Movil,200,OK,Grupo de Hilos 1-99,text,true,,177045,135,97,97,https://www.xataka.com/categoria/moviles,390,0,0
+1608142537041,1078,Movil,200,OK,Grupo de Hilos 1-42,text,true,,176989,135,96,96,https://www.xataka.com/categoria/moviles,505,0,0
+1608142537484,394,Movil,200,OK,Grupo de Hilos 1-53,text,true,,176988,135,98,98,https://www.xataka.com/categoria/moviles,254,0,0
+1608142537947,174,Movil,200,OK,Grupo de Hilos 1-56,text,true,,176965,135,96,96,https://www.xataka.com/categoria/moviles,100,0,0
+1608142538119,156,Movil,200,OK,Grupo de Hilos 1-98,text,true,,176997,135,94,94,https://www.xataka.com/categoria/moviles,50,0,0
+1608142537926,209,Movil,200,OK,Grupo de Hilos 1-18,text,true,,176973,135,96,96,https://www.xataka.com/categoria/moviles,206,0,0
+1608142538100,401,Movil,200,OK,Grupo de Hilos 1-81,text,true,,176981,135,83,83,https://www.xataka.com/categoria/moviles,398,0,0
+1608142538865,320,Movil,200,OK,Grupo de Hilos 1-69,text,true,,177035,135,66,66,https://www.xataka.com/categoria/moviles,43,0,0
+1608142537588,334,Movil,200,OK,Grupo de Hilos 1-73,text,true,,176997,135,98,98,https://www.xataka.com/categoria/moviles,250,0,0
+1608142537870,837,Movil,200,OK,Grupo de Hilos 1-45,text,true,,177117,135,78,78,https://www.xataka.com/categoria/moviles,834,0,0
+1608142538139,144,Movil,200,OK,Grupo de Hilos 1-25,text,true,,177036,135,94,94,https://www.xataka.com/categoria/moviles,141,0,0
+1608142537602,1087,Movil,200,OK,Grupo de Hilos 1-17,text,true,,177028,135,78,78,https://www.xataka.com/categoria/moviles,117,0,0
+1608142538289,605,Movil,200,OK,Grupo de Hilos 1-89,text,true,,177043,135,75,75,https://www.xataka.com/categoria/moviles,39,0,0
+1608142538687,134,Movil,200,OK,Grupo de Hilos 1-20,text,true,,176987,135,76,76,https://www.xataka.com/categoria/moviles,54,0,0
+1608142537867,831,Movil,200,OK,Grupo de Hilos 1-43,text,true,,177051,135,78,78,https://www.xataka.com/categoria/moviles,57,0,0
+1608142537701,968,Movil,200,OK,Grupo de Hilos 1-38,text,true,,177049,135,79,79,https://www.xataka.com/categoria/moviles,58,0,0
+1608142537869,826,Movil,200,OK,Grupo de Hilos 1-84,text,true,,177050,135,78,78,https://www.xataka.com/categoria/moviles,823,0,0
+1608142538510,236,Movil,200,OK,Grupo de Hilos 1-97,text,true,,176965,135,78,78,https://www.xataka.com/categoria/moviles,74,0,0
+1608142537763,179,Movil,200,OK,Grupo de Hilos 1-34,text,true,,176973,135,98,98,https://www.xataka.com/categoria/moviles,101,0,0
+1608142537882,1030,Movil,200,OK,Grupo de Hilos 1-59,text,true,,177066,135,75,75,https://www.xataka.com/categoria/moviles,775,0,0
+1608142537699,220,Movil,200,OK,Grupo de Hilos 1-5,text,true,,177034,135,98,98,https://www.xataka.com/categoria/moviles,217,0,0
+1608142537944,643,Movil,200,OK,Grupo de Hilos 1-58,text,true,,176980,135,81,81,https://www.xataka.com/categoria/moviles,640,0,0
+1608142537956,902,Movil,200,OK,Grupo de Hilos 1-16,text,true,,176989,135,75,75,https://www.xataka.com/categoria/moviles,785,0,0
+1608142538497,314,Movil,200,OK,Grupo de Hilos 1-87,text,true,,177021,135,76,76,https://www.xataka.com/categoria/moviles,36,0,0
+1608142537907,753,Movil,200,OK,Grupo de Hilos 1-2,text,true,,177012,135,79,79,https://www.xataka.com/categoria/moviles,750,0,0
+1608142537781,782,Movil,200,OK,Grupo de Hilos 1-8,text,true,,177029,135,81,81,https://www.xataka.com/categoria/moviles,323,0,0
+1608142538088,191,Movil,200,OK,Grupo de Hilos 1-14,text,true,,177020,135,94,94,https://www.xataka.com/categoria/moviles,188,0,0
+1608142538686,127,Movil,200,OK,Grupo de Hilos 1-76,text,true,,176965,135,76,76,https://www.xataka.com/categoria/moviles,59,0,0
+1608142537863,839,Movil,200,OK,Grupo de Hilos 1-66,text,true,,177020,135,78,78,https://www.xataka.com/categoria/moviles,827,0,0
+1608142538690,172,Movil,200,OK,Grupo de Hilos 1-10,text,true,,177044,135,75,75,https://www.xataka.com/categoria/moviles,52,0,0
+1608142538685,121,Movil,200,OK,Grupo de Hilos 1-49,text,true,,177004,135,76,76,https://www.xataka.com/categoria/moviles,62,0,0
+1608142538128,176,Movil,200,OK,Grupo de Hilos 1-24,text,true,,177035,135,93,93,https://www.xataka.com/categoria/moviles,60,0,0
+1608142537949,646,Movil,200,OK,Grupo de Hilos 1-79,text,true,,176972,135,81,81,https://www.xataka.com/categoria/moviles,631,0,0
+1608142537933,662,Movil,200,OK,Grupo de Hilos 1-39,text,true,,176965,135,81,81,https://www.xataka.com/categoria/moviles,659,0,0
+1608142537933,658,Movil,200,OK,Grupo de Hilos 1-27,text,true,,177004,135,81,81,https://www.xataka.com/categoria/moviles,655,0,0
+1608142538565,178,Movil,200,OK,Grupo de Hilos 1-54,text,true,,176997,135,78,78,https://www.xataka.com/categoria/moviles,143,0,0
+1608142538060,445,Movil,200,OK,Grupo de Hilos 1-93,text,true,,177019,135,83,83,https://www.xataka.com/categoria/moviles,64,0,0
+1608142538285,586,Movil,200,OK,Grupo de Hilos 1-37,text,true,,177036,135,75,75,https://www.xataka.com/categoria/moviles,583,0,0
+1608142538118,213,Movil,200,OK,Grupo de Hilos 1-62,text,true,,177011,135,92,92,https://www.xataka.com/categoria/moviles,198,0,0
+1608142537917,766,Movil,200,OK,Grupo de Hilos 1-46,text,true,,177044,135,78,78,https://www.xataka.com/categoria/moviles,763,0,0
+1608142537728,967,Movil,200,OK,Grupo de Hilos 1-33,text,true,,177027,135,78,78,https://www.xataka.com/categoria/moviles,211,0,0
+1608142537945,827,Movil,200,OK,Grupo de Hilos 1-7,text,true,,176973,135,78,78,https://www.xataka.com/categoria/moviles,636,0,0
+1608142538127,717,Movil,200,OK,Grupo de Hilos 1-44,text,true,,177019,135,75,75,https://www.xataka.com/categoria/moviles,249,0,0
+1608142537884,819,Movil,200,OK,Grupo de Hilos 1-21,text,true,,176988,135,78,78,https://www.xataka.com/categoria/moviles,816,0,0
+1608142537911,752,Movil,200,OK,Grupo de Hilos 1-80,text,true,,177036,135,79,79,https://www.xataka.com/categoria/moviles,749,0,0
+1608142537909,766,Movil,200,OK,Grupo de Hilos 1-70,text,true,,177088,135,79,79,https://www.xataka.com/categoria/moviles,763,0,0
+1608142538605,94,Movil,200,OK,Grupo de Hilos 1-94,text,true,,177047,135,78,78,https://www.xataka.com/categoria/moviles,35,0,0
+1608142537866,801,Movil,200,OK,Grupo de Hilos 1-77,text,true,,177036,135,79,79,https://www.xataka.com/categoria/moviles,798,0,0
+1608142538505,290,Movil,200,OK,Grupo de Hilos 1-47,text,true,,176996,135,77,77,https://www.xataka.com/categoria/moviles,287,0,0
+1608142538677,312,Movil,200,OK,Grupo de Hilos 1-90,text,true,,177036,135,74,74,https://www.xataka.com/categoria/moviles,189,0,0
+1608142538272,586,Movil,200,OK,Grupo de Hilos 1-40,text,true,,177060,135,75,75,https://www.xataka.com/categoria/moviles,32,0,0
+1608142537910,999,Movil,200,OK,Grupo de Hilos 1-4,text,true,,177020,135,75,75,https://www.xataka.com/categoria/moviles,776,0,0
+1608142538678,185,Movil,200,OK,Grupo de Hilos 1-75,text,true,,177043,135,75,75,https://www.xataka.com/categoria/moviles,182,0,0
+1608142538680,512,Movil,200,OK,Grupo de Hilos 1-68,text,true,,176965,135,66,66,https://www.xataka.com/categoria/moviles,63,0,0
+1608142538668,246,Movil,200,OK,Grupo de Hilos 1-48,text,true,,177004,135,75,75,https://www.xataka.com/categoria/moviles,41,0,0
+1608142539162,284,Movil,200,OK,Grupo de Hilos 1-88,text,true,,177065,135,64,64,https://www.xataka.com/categoria/moviles,42,0,0
